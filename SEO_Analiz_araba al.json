@@ -1,0 +1,3802 @@
+[
+    {
+        "URL": "https://borusannext.com/araba-al",
+        "PageTitle": "Satılık İkinci El Araba Modelleri ve Fiyatları - Borusan Next",
+        "MetaDescription": "İkinci El araba modelleri ve fiyatları ile en güncel otomobil ilanları Borusan Next’te. Tüm araba modellerini görmek için tıklayın!",
+        "H1": "Satılık İkinci El Araba Modelleri ve Fiyatları",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "Borusan Next",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "Borusan Next",
+            "Audi Q2 2020",
+            "Audi Q2 2020",
+            "Audi Q2 2020",
+            "Audi Q2",
+            "Jaguar I-PACE 2023",
+            "Jaguar I-PACE 2023",
+            "Jaguar I-PACE 2023",
+            "Jaguar I-PACE",
+            "Range Rover Velar 2023",
+            "Range Rover Velar 2023",
+            "Range Rover Velar 2023",
+            "Range Rover Velar",
+            "Range Rover Sport 2023",
+            "Range Rover Sport 2023",
+            "Range Rover Sport 2023",
+            "Range Rover Sport",
+            "BMW 3 Serisi 2022",
+            "BMW 3 Serisi 2022",
+            "BMW 3 Serisi 2022",
+            "BMW Premium Selection",
+            "BMW Premium Selection",
+            "BMW 3 Serisi",
+            "BMW Alpina 2024",
+            "BMW Alpina 2024",
+            "BMW Alpina 2024",
+            "BMW Alpina",
+            "Citroen C3 2023",
+            "Citroen C3 2023",
+            "Citroen C3 2023",
+            "Citroen C3",
+            "Audi Q7 2014",
+            "Audi Q7 2014",
+            "Audi Q7 2014",
+            "Audi Q7",
+            "Mercedes - Benz EQS 2022",
+            "Mercedes - Benz EQS 2022",
+            "Mercedes - Benz EQS 2022",
+            "Mercedes - Benz EQS",
+            "Opel Corsa 2024",
+            "Opel Corsa 2024",
+            "Opel Corsa 2024",
+            "Opel Corsa",
+            "Range Rover Evoque 2023",
+            "Range Rover Evoque 2023",
+            "Range Rover Evoque 2023",
+            "Range Rover Evoque",
+            "BMW 3 Serisi 2018",
+            "BMW 3 Serisi 2018",
+            "BMW 3 Serisi 2018",
+            "BMW 3 Serisi"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "ItemList",
+                    "position": 1,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2020 Audi Q2",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/599000/img8081_780_9_2_17_6_3_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/audi/q2/05990001",
+                        "description": "2020 Audi 30 TDI Design 116 BG Otomatik",
+                        "sku": "Audi30 TDI Design 116 BG2020",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Audi"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/audi/q2/05990001",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "1665000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 2,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Jaguar I-PACE",
+                        "image": "https://cdn-bnext.borusanotomotiv.com/media/255327/255327_89a5b442-1c86-4b84-aafb-a407f8b8e841.jpg",
+                        "url": "https://borusannext.com/araba-al/jaguar/i-pace/05706226",
+                        "description": "2023 Jaguar HSE Otomatik",
+                        "sku": "JaguarHSE2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Jaguar"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/jaguar/i-pace/05706226",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "2985000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 3,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Range Rover Velar",
+                        "image": "https://cdn-bnext.borusanotomotiv.com/media/252372/252372_5efdc359-c709-478f-b7cc-cf39d54a8eab.jpg",
+                        "url": "https://borusannext.com/araba-al/range-rover/velar/05638518",
+                        "description": "2023 Range Rover 2.0 TD4 S Otomatik",
+                        "sku": "Range Rover2.0 TD4 S2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Range Rover"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/range-rover/velar/05638518",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "5410000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 4,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Range Rover Sport",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/571993/whatsappimage2024-10-01at09_359_53_49_8_16_10_2024.jpeg",
+                        "url": "https://borusannext.com/araba-al/range-rover/sport/05719934",
+                        "description": "2023 Range Rover 3.0 SDV6 HSE Dynamic 300 BG  Otomatik",
+                        "sku": "Range Rover3.0 SDV6 HSE Dynamic 300 BG 2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Range Rover"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/range-rover/sport/05719934",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "11630000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 5,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2022 BMW 3 Serisi",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/591132/img0028_136_26_51_7_28_1_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/bmw/3-serisi/05911323",
+                        "description": "2022 BMW 320i Luxury Line 170 BG Otomatik",
+                        "sku": "BMW320i Luxury Line 170 BG2022",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "BMW"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/bmw/3-serisi/05911323",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "2595000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 6,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2024 BMW Alpina",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/593769/20250110150607_298_35_35_14_20_1_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/bmw/alpina/05937693",
+                        "description": "2024 BMW B8 Gran Coupe 621 BG Otomatik",
+                        "sku": "BMWB8 Gran Coupe 621 BG2024",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "BMW"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/bmw/alpina/05937693",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "25500000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 7,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Citroen C3",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/574426/photo-2025-03-07-13-47-59[4]_285_28_2_14_7_3_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/citroen/c3/05744260",
+                        "description": "2023 Citroen 1.2 Puretech Elle 110 BG Otomatik",
+                        "sku": "Citroen1.2 Puretech Elle 110 BG2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Citroen"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/citroen/c3/05744260",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "980000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 8,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2014 Audi Q7",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/587589/img3540_723_16_17_17_12_1_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/audi/q7/05875899",
+                        "description": "2014 Audi 3.0 TDI Quattro 240 BG Otomatik",
+                        "sku": "Audi3.0 TDI Quattro 240 BG2014",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Audi"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/audi/q7/05875899",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "2420000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 9,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2022 Mercedes - Benz EQS",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/582920/d77ff11a-2c0f-4a51-9a1f-b0815eeebdac_186_11_38_18_27_11_2024.jpg",
+                        "url": "https://borusannext.com/araba-al/mercedes-benz/eqs/05829204",
+                        "description": "2022 Mercedes - Benz 580 523 BG Otomatik",
+                        "sku": "Mercedes - Benz580 523 BG2022",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Mercedes - Benz"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/mercedes-benz/eqs/05829204",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "5050000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 10,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2024 Opel Corsa",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/570362/img0057_213_36_27_12_1_11_2024.JPEG",
+                        "url": "https://borusannext.com/araba-al/opel/corsa/05703621",
+                        "description": "2024 Opel 1.2 T Edition 100 BG Otomatik",
+                        "sku": "Opel1.2 T Edition 100 BG2024",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Opel"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/opel/corsa/05703621",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "1090000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 11,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Range Rover Evoque",
+                        "image": "https://cdn-bnext.borusanotomotiv.com/media/249027/249027_23ad0dd6-4398-4a93-8622-5032c6ad4eb8.jpg",
+                        "url": "https://borusannext.com/araba-al/range-rover/evoque/05587981",
+                        "description": "2023 Range Rover 1.5 R-Dynamic SE Otomatik",
+                        "sku": "Range Rover1.5 R-Dynamic SE2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Range Rover"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/range-rover/evoque/05587981",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "3700000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 12,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2018 BMW 3 Serisi",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/599579/20250311085759_981_24_45_12_11_3_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/bmw/3-serisi/05995792",
+                        "description": "2018 BMW 330i xDrive Edition M Sport 252 BG Otomatik",
+                        "sku": "BMW330i xDrive Edition M Sport 252 BG2018",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "BMW"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/bmw/3-serisi/05995792",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "1840000"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://www.katilimevim.com.tr/krediden-iyisi/",
+        "PageTitle": "Krediden İyisi - Katılımevim",
+        "MetaDescription": "Siz de yüz binlerce ailenin kullandığı yöntemle KİRA ÖDER GİBİ EV SAHİBİ OLUN!",
+        "H1": "SİZ DE EV, ARABA, İŞ YERİ VE TİCARİ ARAÇ SAHİBİ OLUN!",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.volvocars.com/tr/quote",
+        "PageTitle": "Back Button",
+        "MetaDescription": "",
+        "H1": "",
+        "H2": "Gizlilik Tercihi Merkezi",
+        "H3": "Onay Tercihlerini Yönet",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "Şirket Logosu",
+            "Powered by Onetrust"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.arabam.com/ikinci-el",
+        "PageTitle": "İkinci El Araba Fiyatları, Satılık 2. El Araba Modelleri arabam.com'da!",
+        "MetaDescription": "İkinci El Araba fiyatlarını, aradığınız tüm marka ve modelleri, arabam.com güvencesiyle incelemek için hemen tıklayın!",
+        "H1": "Satılık 2. El Araba Fiyatları ve Modelleri",
+        "H2": "Gizlilik Tercihi Merkezi",
+        "H3": "\nHonda Civic 1.6 i-VTEC Elegance\n",
+        "OpenGraphTitle": "İkinci El Araba Fiyatları, Satılık 2. El Araba Modelleri arabam.com'da!",
+        "OpenGraphDescription": "İkinci El Araba fiyatlarını, aradığınız tüm marka ve modelleri, arabam.com güvencesiyle incelemek için hemen tıklayın!",
+        "OpenGraphImage": "https://arbimg1.mncdn.com/assets2/dist/img/arabam-faceshare.png?v=20250314142219",
+        "ImageAltTexts": [
+            "Arabam Tedarik",
+            "arabam.com",
+            "arabamcom - trink sat",
+            "ATA HYUNDAI PLAZADAN 2011 HONDA CIVIC 1.6 ELEGANCE OV",
+            "ŞEN KARDEŞLER OTOMOTİV 96 MODEL 19 HİDROLİK DİREKSİYON",
+            "HATASIZ YETKİLİ SERVİS BAKIMLI 2024 MODEL",
+            "HATASIZ BOYASIZ HASAR KAYITSIZ ASTRA SPORT",
+            "Royal Otodan Masrafsız Temiz Duster 1.5 Dci",
+            "BİNOTO dan Volkswagen Passat 1.6 TDi BlueMotion Impression 2017 Model Çankırı",
+            "VADE TAKAS OLUR 2015 CİTY VAN HATASIZ BOYSIZ TRANSPORTER",
+            "2022 XC60 19 JNT+HARMAN+SOĞUTMA+ISITM+HAYALET+OTONOM+360 BOYASIZ",
+            "YETKİLİ SERVİS BAKIMLI 2021 ÇIKIŞ HYBRID DREAM KABLOSUZ ŞARJLI",
+            "CADDE16'DAN 2023 MDL 1.3TCe ELEKTRONİK ELFRENİ 30000KM OTOMATİK",
+            "FİAT EGEA 1.3 MULTİJET URBAN KREDİ KARTINA 12 TAKSİT İMKANI",
+            "2021 FIAT EGEA 1.3 MULTİJET DİZEL EASY HATASIZ -- BOYASIZ -- TRAMERSİZ",
+            "1.99  KREDİ KARTINA TAKSİT İMKANI İLE 2008 HYUNDAİ GETZ 1.4 BENZİN LPG OTOMATİK",
+            "2023 MODEL PEUGEOT 408 GT 33 BİN KM HATASIZ BOYASIZ TRAMERSİZ CAM TAVAN FULL+FULL",
+            "Full paket makam aracı",
+            "Galeriden Ford Trucks Transit 350 L Van",
+            "ARŞA OTOMOTİV HATASIZ BOYASIZ ÇİZİKSİZ2024 DÜŞÜK KM 2008 ALLURE",
+            "K.KARTINA12TAKSİTLE/2019/DEĞİŞENSİZ-TRAMERSİZ/SADECE 29.000 KM.",
+            "Hatasız boyasız",
+            "TEKİN'DEN 2014 CADDY 1.6 DİZEL TRNİN EN UYGUNU TEMİZ SORUNSUZ",
+            "{{advertFullTitle}}",
+            "ilab logo",
+            "Şirket Logosu",
+            "Powered by Onetrust"
+        ],
+        "JSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-honda-civic-1-6-i-vtec-elegance/ata-hyundai-plazadan-2011-honda-civic-1-6-elegance-ov/28428041",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "158780",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Honda",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Honda"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2011",
+                "productionDate": "2011",
+                "name": "ATA HYUNDAI PLAZADAN 2011 HONDA CIVIC 1.6 ELEGANCE OV",
+                "description": "ATA HYUNDAI PLAZADAN 2011 HONDA CIVIC 1.6 ELEGANCE OV",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28428041/af00f52b-c2ef-4f82-b79c-74e702ce1b28_image_for_silan_28428041_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 758750,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-honda-civic-1-6-i-vtec-elegance/ata-hyundai-plazadan-2011-honda-civic-1-6-elegance-ov/28428041"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-r-19-1-4-europa-rl/sen-kardesler-otomotiv-96-model-19-hidrolik-direksiyon/28073405",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "295000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "LPG & Benzin"
+                },
+                "vehicleModelDate": "1996",
+                "productionDate": "1996",
+                "name": "ŞEN KARDEŞLER OTOMOTİV 96 MODEL 19 HİDROLİK DİREKSİYON",
+                "description": "ŞEN KARDEŞLER OTOMOTİV 96 MODEL 19 HİDROLİK DİREKSİYON",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/22/28073405/d20b9cd6-9505-470a-add7-deb0fd3819ee_image_for_silan_28073405_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 210000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-r-19-1-4-europa-rl/sen-kardesler-otomotiv-96-model-19-hidrolik-direksiyon/28073405"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-opel-mokka-1-2-t-gs/hatasiz-yetkili-servis-bakimli-2024-model/28424993",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "30800",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Opel",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Opel"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2024",
+                "productionDate": "2024",
+                "name": "HATASIZ YETKİLİ SERVİS BAKIMLI 2024 MODEL",
+                "description": "HATASIZ YETKİLİ SERVİS BAKIMLI 2024 MODEL",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28424993/7d806b7d-da57-403f-9b1b-ca44ca3f5453_image_for_silan_28424993_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1350000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-opel-mokka-1-2-t-gs/hatasiz-yetkili-servis-bakimli-2024-model/28424993"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-opel-astra-1-3-cdti-sport/hatasiz-boyasiz-hasar-kayitsiz-astra-sport/28424885",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "234000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Opel",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Opel"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2012",
+                "productionDate": "2012",
+                "name": "HATASIZ BOYASIZ HASAR KAYITSIZ ASTRA SPORT",
+                "description": "HATASIZ BOYASIZ HASAR KAYITSIZ ASTRA SPORT",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28424885/4f450257-ab31-49be-9eda-5cbd79e2d304_image_for_silan_28424885_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 625000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-opel-astra-1-3-cdti-sport/hatasiz-boyasiz-hasar-kayitsiz-astra-sport/28424885"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-dacia-duster-1-5-dci-ambiance/royal-otodan-masrafsiz-temiz-duster-1-5-dci/28423967",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "309000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Dacia",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Dacia"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2012",
+                "productionDate": "2012",
+                "name": "Royal Otodan Masrafsız Temiz Duster 1.5 Dci",
+                "description": "Royal Otodan Masrafsız Temiz Duster 1.5 Dci",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28423967/cf5cd0e4-1b32-4e08-a928-f2dbd43f7bbc_image_for_silan_28423967_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 559000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-dacia-duster-1-5-dci-ambiance/royal-otodan-masrafsiz-temiz-duster-1-5-dci/28423967"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-impression/binoto-dan-volkswagen-passat-1-6-tdi-bluemotion-impression-2017-model-cankiri/28422949",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "200946",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Volkswagen",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Volkswagen"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2017",
+                "productionDate": "2017",
+                "name": "BİNOTO dan Volkswagen Passat 1.6 TDi BlueMotion Impression 2017 Model &#199;ankırı",
+                "description": "BİNOTO dan Volkswagen Passat 1.6 TDi BlueMotion Impression 2017 Model &#199;ankırı",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28422949/8d8ccd62-26a0-49c9-8c14-ea9648bcedc6_image_for_silan_28422949_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Yarı Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1164000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-impression/binoto-dan-volkswagen-passat-1-6-tdi-bluemotion-impression-2017-model-cankiri/28422949"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-volkswagen-transporter-2-0-tdi-city-van/vade-takas-olur-2015-city-van-hatasiz-boysiz-transporter/28422163",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "235000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Volkswagen",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Volkswagen"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2015",
+                "productionDate": "2015",
+                "name": "VADE TAKAS OLUR 2015 CİTY VAN HATASIZ BOYSIZ TRANSPORTER",
+                "description": "VADE TAKAS OLUR 2015 CİTY VAN HATASIZ BOYSIZ TRANSPORTER",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28422163/cb262e35-34be-4f11-bade-4a8dad19bbe8_image_for_silan_28422163_120x90.jpg",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 749950,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-volkswagen-transporter-2-0-tdi-city-van/vade-takas-olur-2015-city-van-hatasiz-boysiz-transporter/28422163"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-volvo-xc60-2-0-b4-inscription/2022-xc60-19-jnt-harman-sogutma-isitm-hayalet-otonom-360-boyasiz/28246828",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "46000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Volvo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Volvo"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2022",
+                "productionDate": "2022",
+                "name": "2022 XC60 19 JNT+HARMAN+SOĞUTMA+ISITM+HAYALET+OTONOM+360 BOYASIZ",
+                "description": "2022 XC60 19 JNT+HARMAN+SOĞUTMA+ISITM+HAYALET+OTONOM+360 BOYASIZ",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/07/28246828/6fac646c-ddab-4591-b0a2-71334b3358af_image_for_silan_28246828_120x90.jpg",
+                "driveWheelConfiguration": "AWD (Elektronik)",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 3680000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-volvo-xc60-2-0-b4-inscription/2022-xc60-19-jnt-harman-sogutma-isitm-hayalet-otonom-360-boyasiz/28246828"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-toyota-corolla-1-8-hybrid-dream/yetkili-servis-bakimli-2021-cikis-hybrid-dream-kablosuz-sarjli/28144519",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "122000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Toyota",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Toyota"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "LPG & Benzin"
+                },
+                "vehicleModelDate": "2020",
+                "productionDate": "2020",
+                "name": "YETKİLİ SERVİS BAKIMLI 2021 &#199;IKIŞ HYBRID DREAM KABLOSUZ ŞARJLI",
+                "description": "YETKİLİ SERVİS BAKIMLI 2021 &#199;IKIŞ HYBRID DREAM KABLOSUZ ŞARJLI",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/28/28144519/d06d38ce-2341-40fa-b2cf-068836a09f79_image_for_silan_28144519_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1039950,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-toyota-corolla-1-8-hybrid-dream/yetkili-servis-bakimli-2021-cikis-hybrid-dream-kablosuz-sarjli/28144519"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-megane-1-3-tce-joy/cadde16-dan-2023-mdl-1-3tce-elektronik-elfreni-30000km-otomatik/28157945",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "37000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2023",
+                "productionDate": "2023",
+                "name": "CADDE16&#39;DAN 2023 MDL 1.3TCe ELEKTRONİK ELFRENİ 30000KM OTOMATİK",
+                "description": "CADDE16&#39;DAN 2023 MDL 1.3TCe ELEKTRONİK ELFRENİ 30000KM OTOMATİK",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/01/28157945/ab66f9a2-1362-4a30-a136-719151328ea1_image_for_silan_28157945_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1009000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-megane-1-3-tce-joy/cadde16-dan-2023-mdl-1-3tce-elektronik-elfreni-30000km-otomatik/28157945"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban/fiat-egea-1-3-multijet-urban-kredi-kartina-12-taksit-imkani/27674155",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "234000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Fiat",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Fiat"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2018",
+                "productionDate": "2018",
+                "name": "FİAT EGEA 1.3 MULTİJET URBAN KREDİ KARTINA 12 TAKSİT İMKANI",
+                "description": "FİAT EGEA 1.3 MULTİJET URBAN KREDİ KARTINA 12 TAKSİT İMKANI",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/01/14/27674155/f431bd3d-6bcb-4d84-bacb-d862fd31fb24_image_for_silan_27674155_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 649999,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban/fiat-egea-1-3-multijet-urban-kredi-kartina-12-taksit-imkani/27674155"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-easy/2021-fiat-egea-1-3-multijet-dizel-easy-hatasiz-boyasiz-tramersiz/28339280",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "87500",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Fiat",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Fiat"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2021",
+                "productionDate": "2021",
+                "name": "2021 FIAT EGEA 1.3 MULTİJET DİZEL EASY HATASIZ -- BOYASIZ -- TRAMERSİZ",
+                "description": "2021 FIAT EGEA 1.3 MULTİJET DİZEL EASY HATASIZ -- BOYASIZ -- TRAMERSİZ",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/13/28339280/b56e3338-24d7-4089-b287-3883d5ff18be_image_for_silan_28339280_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 765000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-easy/2021-fiat-egea-1-3-multijet-dizel-easy-hatasiz-boyasiz-tramersiz/28339280"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-hyundai-getz-1-4-dohc-hy-klm/1-99-kredi-kartina-taksit-imkani-ile-2008-hyundai-getz-1-4-benzin-lpg-otomatik/28419255",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "240000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Hyundai",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Hyundai"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "LPG & Benzin"
+                },
+                "vehicleModelDate": "2008",
+                "productionDate": "2008",
+                "name": "1.99  KREDİ KARTINA TAKSİT İMKANI İLE 2008 HYUNDAİ GETZ 1.4 BENZİN LPG OTOMATİK",
+                "description": "1.99  KREDİ KARTINA TAKSİT İMKANI İLE 2008 HYUNDAİ GETZ 1.4 BENZİN LPG OTOMATİK",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28419255/d2d2b124-11da-42c5-9b74-6ff3b44722c5_image_for_silan_28419255_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 449950,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-hyundai-getz-1-4-dohc-hy-klm/1-99-kredi-kartina-taksit-imkani-ile-2008-hyundai-getz-1-4-benzin-lpg-otomatik/28419255"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-peugeot-408-gt/2023-model-peugeot-408-gt-33-bin-km-hatasiz-boyasiz-tramersiz-cam-tavan-full-full/28394847",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "33000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Peugeot",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Peugeot"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2023",
+                "productionDate": "2023",
+                "name": "2023 MODEL PEUGEOT 408 GT 33 BİN KM HATASIZ BOYASIZ TRAMERSİZ CAM TAVAN FULL+FULL",
+                "description": "2023 MODEL PEUGEOT 408 GT 33 BİN KM HATASIZ BOYASIZ TRAMERSİZ CAM TAVAN FULL+FULL",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/16/28394847/cabfcbb2-dfda-44c9-96ae-483a723e924b_image_for_silan_28394847_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1725750,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-peugeot-408-gt/2023-model-peugeot-408-gt-33-bin-km-hatasiz-boyasiz-tramersiz-cam-tavan-full-full/28394847"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-exclusive/full-paket-makam-araci/27982641",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "297000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Volkswagen",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Volkswagen"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2013",
+                "productionDate": "2013",
+                "name": "Full paket makam aracı",
+                "description": "Full paket makam aracı",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/14/27982641/556727ec-afb6-48c7-abdf-149e95aa7e11_image_for_silan_27982641_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 775000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-exclusive/full-paket-makam-araci/27982641"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-ford-trucks-transit-350-l/galeriden-ford-trucks-transit-350-l-van/28418023",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "270000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Ford Trucks",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Ford Trucks"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2015",
+                "productionDate": "2015",
+                "name": "Galeriden Ford Trucks Transit 350 L Van",
+                "description": "Galeriden Ford Trucks Transit 350 L Van",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28418023/08d7a40e-0262-4c3e-a44d-e0d182e4d273_image_for_silan_28418023_120x90.jpg",
+                "vehicleTransmission": "Düz",
+                "color": "Beyaz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 835000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-ford-trucks-transit-350-l/galeriden-ford-trucks-transit-350-l-van/28418023"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-peugeot-2008-1-2-puretech-allure/arsa-otomotiv-hatasiz-boyasiz-ciziksiz2024-dusuk-km-2008-allure/28060182",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "9900",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Peugeot",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Peugeot"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2024",
+                "productionDate": "2024",
+                "name": "ARŞA OTOMOTİV HATASIZ BOYASIZ &#199;İZİKSİZ2024 D&#220;Ş&#220;K KM 2008 ALLURE",
+                "description": "ARŞA OTOMOTİV HATASIZ BOYASIZ &#199;İZİKSİZ2024 D&#220;Ş&#220;K KM 2008 ALLURE",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/21/28060182/6ecf016e-da4b-449b-9912-8374464eb316_image_for_silan_28060182_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1555000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-peugeot-2008-1-2-puretech-allure/arsa-otomotiv-hatasiz-boyasiz-ciziksiz2024-dusuk-km-2008-allure/28060182"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-clio-0-9-tce-touch/k-kartina12taksitle-2019-degisensiz-tramersiz-sadece-29-000-km/28172551",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "29000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2019",
+                "productionDate": "2019",
+                "name": "K.KARTINA12TAKSİTLE/2019/DEĞİŞENSİZ-TRAMERSİZ/SADECE 29.000 KM.",
+                "description": "K.KARTINA12TAKSİTLE/2019/DEĞİŞENSİZ-TRAMERSİZ/SADECE 29.000 KM.",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/02/28172551/e2ba0fc5-6d35-4d7d-9d50-4644f1b30df7_image_for_silan_28172551_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 725000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-clio-0-9-tce-touch/k-kartina12taksitle-2019-degisensiz-tramersiz-sadece-29-000-km/28172551"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban/hatasiz-boyasiz/28171246",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "243800",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Fiat",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Fiat"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2016",
+                "productionDate": "2016",
+                "name": "Hatasız boyasız",
+                "description": "Hatasız boyasız",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/02/28171246/2fe9e606-0248-4db1-a90c-d68d083ccf26_image_for_silan_28171246_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 565000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban/hatasiz-boyasiz/28171246"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-volkswagen-caddy-1-6-tdi-team/tekin-den-2014-caddy-1-6-dizel-trnin-en-uygunu-temiz-sorunsuz/27993724",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "295000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Volkswagen",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Volkswagen"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2014",
+                "productionDate": "2014",
+                "name": "TEKİN&#39;DEN 2014 CADDY 1.6 DİZEL TRNİN EN UYGUNU TEMİZ SORUNSUZ",
+                "description": "TEKİN&#39;DEN 2014 CADDY 1.6 DİZEL TRNİN EN UYGUNU TEMİZ SORUNSUZ",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/15/27993724/84d948f4-86ed-4f35-95db-3ee88e200b08_image_for_silan_27993724_120x90.jpg",
+                "driveWheelConfiguration": "4x2 (Önden Çekişli)",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 555000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-volkswagen-caddy-1-6-tdi-team/tekin-den-2014-caddy-1-6-dizel-trnin-en-uygunu-temiz-sorunsuz/27993724"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@id": "https://www.arabam.com/ikinci-el/",
+                            "name": "2. El Araç "
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "URL": "https://www.arabam.com/",
+        "PageTitle": "arabam.com: 2. El ve 0 Km Satılık Araç İlanları Platformu",
+        "MetaDescription": "Sahibinden galeriden satilik 2.el araba, ticari, arazi, suv araç ilanlari, 0 km fiyat kampanyalari. Ücretsiz ilan yayinlamak, güvenle araç almak için arabam.com",
+        "H1": "",
+        "H2": "\n                    Vitrin\n                    \nTüm Vitrini Gör\n\n",
+        "H3": "\n                      Öne Çıkan Satıcılar\n                  ",
+        "OpenGraphTitle": "arabam.com: 2. El ve 0 Km Satılık Araç İlanları Platformu",
+        "OpenGraphDescription": "Sahibinden galeriden satilik 2.el araba, ticari, arazi, suv araç ilanlari, 0 km fiyat kampanyalari. Ücretsiz ilan yayinlamak, güvenle araç almak için arabam.com",
+        "OpenGraphImage": "https://arbimg1.mncdn.com/assets/dist/img/arabam-faceshare.png?v=20250314141502",
+        "ImageAltTexts": [
+            "Arabam Tedarik",
+            "arabam.com",
+            "trink sat",
+            "arabam kaç para",
+            "Sıfır km",
+            "bana araç öner",
+            "garaj",
+            "TEKİNDAĞ OTOMOTİV - İSTOÇ",
+            "ÖKTEM MOTORS",
+            "TUDA OTOMOTİV",
+            "ERTAŞ OTOMOTİV ADANA",
+            "VK Otomotiv",
+            "TOYS CAR",
+            "BAYİİ MSPORT MAKYAJLI 8 İLERİ DİZEL CAM TAVAN 360 RECARO FULL",
+            "Sahibinden Mercedes - Benz 200 E 1989 Model ",
+            "Sahibinden Volkswagen Passat 1.6 TDi BlueMotion Trendline 2018 Model ",
+            "Sahibinden Lada Samara 1.5 2000 Model ",
+            "Volvo S60 1.6 D Advance  2013 Model",
+            "ARŞA OTOMOTİV HATASIZ DÜŞÜK KM MASRAFSIZ 1.9 105 BG 5+1 ORJİNAL",
+            "EDREMİT AUTOCENTERDAN HATASIZ-BOYASIZ 2007 MEGANE 1.5 PRİVİLİGE KARTA 12 TAKSİT",
+            "ES CAR OTOMOTİV DEN 2003 MODEL MERCEDES C 220 CDİ AVANTGARDE",
+            "Sahibinden Audi A4 Sedan 3.2 FSI Quattro 2008 Model ",
+            "2018 RANGER HATASIZ 4×4 OTOMATİK OFF ROAD",
+            "2013 ÇIKIŞLI İLK EL *160.000KM* CAM TAVANLI OTOMATİK TEKNA PACK",
+            "Galeriden Skoda Octavia 1.6 TDI Optimal 2019 Model Hatay",
+            "OPEL ASTRA 1.5 D GS LINE DİZEL TAM OTOMATİK VİTES",
+            "2014 MODEL FİAT LİNEA 210.000 KM DEĞİŞENSİZ ORJİNAL ARAÇ",
+            "SAHİBİNDEN SIFIR AYARINDA HATASIZ BOYASIZ DEĞİŞENSİZ YETKİLİ SERVİS BAKIMLI ",
+            "KOLTUK İSİTMALİ. 2 BOYA VAR",
+            "Sahibinden Tofaş Murat 131 1987 Model",
+            "SAHİBİNDEN HATASIZ BOYASIZ HASAR KAYITSIZ BENZİN & LPG",
+            "Demir Otomotiv’den Opel Astra 1.6 Elegance 2001 Model Kırşehir",
+            "2018 BOYASIZ İLK ELDEN 182.000 KM 3008 1.6 GT-LİNE EAT6 FULL PK.",
+            "^^HUSİSİ RUHSATLI PAMPA ^^",
+            "220.000 TL PEŞİN KALAN 36 TAKSİT / 2021 MODEL C-ELYSEE - 100 HP",
+            "Bayrak otomotiv 350ED paket 3 ileri destek paket %20 faturalı",
+            "Sahibinden Opel Astra 1.3 CDTI Enjoy 111.Yıl 2011 Model ",
+            "{{advertFullTitle}}",
+            "OTORİTE'DEN 2018 FORD TRANSİT 11+1 YÜKSEK TAVAN SADECE 97.000 KM'DE...",
+            "''CAR INVEST'' RENAULT CLİO 1.0 TCE JOY X-TRONIC HATASIZ",
+            "ÜNİVERSİTE_2009 VOLKSWAGEN PASSAT HIGHLİNE_250.000KM",
+            "KÖY OTOMOTİV'DEN PEUGEOT 2008 1.2 PURETECH ALLURE EAT8 HATASIZ..",
+            "BÜYÜKSOYLU FİLO/2011 MODEL CİTROEN NEMO 1.4 HDİ 70 HP",
+            "Galeriden Opel Astra 1.6 Comfort 1999 Model Çorum",
+            "Galeriden Volkswagen Golf 1.6 TDi BlueMotion Highline 2015 Model İstanbul",
+            "KÖY OTOMOTİV'DEN 2024 DUSTER 1.6 E-TECH TEKNO 145 HP HATASIZ..",
+            "2019 PEUGEOT 301 1.5 BLUEHDİ ACTİVE MAKYAJLI K.KARTINA 12 TAKSİT",
+            "SAĞNAK OTOMOTİV DEN KAJDAR 1.5 DCI ICON CAM TAVAN BOYASIZ DİZEL",
+            "2015 MODEL 90LIK 220BİNDE",
+            "Galeriden Ford Trucks Transit 350 ED Van",
+            "SAĞNAK OTOMOTİV DEN FİAT EGEA 1.4 FİRE URBAN BOYASIZ 12 BİN KM FUUL PAKET",
+            "BAŞKURTLAR AUTO'DAN OTOMATİK Astra 1.6 Enjoy 2013 Model Malatya",
+            "KÖY OTOMOTİV'DEN 2024 DACİA DUSTER EXTREME 1.3TCE EDC 150BG",
+            "AKPINAR-2015 MB CLS 250d 4 MATİC 7G-TRONİC HATASIZ*ORJİNAL*",
+            "KÖY OTOMOTİV'DEN 2024 DACİA DUSTER JOURNEY 1.3TCE EDC 150BG",
+            "ÇİFTÇİ-AUTO-2018-HİGHLİNE-HATASIZ-BOYASIZ-CAM-TAVANLI-164-BİNDE",
+            "Sadece arabam.com’da Bulabileceğiniz Hizmetlerle İşinize Değer Katalım",
+            "Ek Gelir ve Fayda Sağlayan Hizmetlerimizi Keşfedin",
+            "arabam.com’u, Tercih Eden Üyelerimizden Dinleyin",
+            "Renault Megane E-Tech Test Sürüşü",
+            "Suzuki S-Cross Hybrid Test Sürüşü",
+            "MG ZS EV Test Sürüşü",
+            "arabam.com, Zorlu Hava Koşullarında Güvenli Sürüş için Uyarıyor",
+            "Chery Omoda 5 Pro İnceleme",
+            "D Segment Ne Demek? Detaylı İnceleme ve Öne Çıkan Araçlar",
+            "ilab logo",
+            "Şirket Logosu",
+            "Powered by Onetrust"
+        ],
+        "JSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "Arabam.com",
+                "url": "https://www.arabam.com"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "url": "https://www.arabam.com",
+                "legalName": "arabam.com",
+                "contactPoint": [
+                    {
+                        "@type": "ContactPoint",
+                        "telephone": "0 (850) 759 90 00",
+                        "areaServed": "TR"
+                    }
+                ],
+                "logo": "https://arbimg1.mncdn.com/assets/dist/img/tek-tur-large.gif?v=20191011163534",
+                "sameAs": [
+                    "https://www.facebook.com/arabamcom",
+                    "https://plus.google.com/+arabamcom",
+                    "https://www.pinterest.com/arabamcom/",
+                    "https://www.linkedin.com/company/arabam-com",
+                    "https://www.youtube.com/user/arabamcom",
+                    "https://www.instagram.com/arabamcom/"
+                ]
+            }
+        ]
+    },
+    {
+        "URL": "https://www.sahibinden.com/otomobil/mersin",
+        "PageTitle": "Bir dakika lütfen...",
+        "MetaDescription": "",
+        "H1": "secure.sahibinden.com",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "secure.sahibinden.com için simge"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.otokocikinciel.com/",
+        "PageTitle": "Satılık Araba İlanları - İkinci El Araba Listesi | Otokoç 2. El",
+        "MetaDescription": "2. El Araba Fiyatları ve tüm Araç Modellerini incelemek ve bütçene uygun otomobil modellerini görüntülemek için Otokoç 2. El web sitemizi ziyaret edin.",
+        "H1": "Otokoç 2. El Araçları",
+        "H2": "Aracımın Değerini Öğrenmek İstiyorum",
+        "H3": "Kasa Tipine Göre Keşfet",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "açık garaj",
+            "Mobil 430X700 (5)",
+            "Mobil 430X700 (2)",
+            "430X700",
+            "RENAULT-MEGANE-SEDAN JOY COMFORT 1.3 TCE 140 BG EDC - 1",
+            "RENAULT-MEGANE-SEDAN JOY COMFORT 1.3 TCE 140 BG EDC - 2",
+            "RENAULT-MEGANE-SEDAN JOY COMFORT 1.3 TCE 140 BG EDC - 3",
+            "DACIA-SANDERO-SANDERO AMBIANCE 1.2 16V 75 BG - 1",
+            "DACIA-SANDERO-SANDERO AMBIANCE 1.2 16V 75 BG - 2",
+            "DACIA-SANDERO-SANDERO AMBIANCE 1.2 16V 75 BG - 3",
+            "TOYOTA-COROLLA-1.8 HYBRID DREAM E-CVT - 1",
+            "TOYOTA-COROLLA-1.8 HYBRID DREAM E-CVT - 2",
+            "TOYOTA-COROLLA-1.8 HYBRID DREAM E-CVT - 3",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 1",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 2",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 3",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 1",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 2",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 3",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 1",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 2",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 3",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 1",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 2",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 3",
+            "RENAULT-CLIO-JOY 1.0 TCE X-TRONIC 90 BG - 1",
+            "RENAULT-CLIO-JOY 1.0 TCE X-TRONIC 90 BG - 2",
+            "RENAULT-CLIO-JOY 1.0 TCE X-TRONIC 90 BG - 3",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 1",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 2",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 3",
+            "FORD-FOCUS-1.5L TDCI 120PS TITANIUM AUTO - 1",
+            "FORD-FOCUS-1.5L TDCI 120PS TITANIUM AUTO - 2",
+            "FORD-FOCUS-1.5L TDCI 120PS TITANIUM AUTO - 3",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 1",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 2",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 3",
+            "FIAT-EGEA-1.3 MJET 95 HP EU6D EASY - 1",
+            "FIAT-EGEA-1.3 MJET 95 HP EU6D EASY - 2",
+            "FIAT-EGEA-1.3 MJET 95 HP EU6D EASY - 3",
+            "AĞIR BAKIMLARI TAM MASRAFSIZ VOLKSWAGEN POLO - 1",
+            "AĞIR BAKIMLARI TAM MASRAFSIZ VOLKSWAGEN POLO - 2",
+            "AĞIR BAKIMLARI TAM MASRAFSIZ VOLKSWAGEN POLO - 3",
+            "2013 FORD FOCUS 1.6 TDCI TREND / 6 İLERİ VİTES - 1",
+            "2013 FORD FOCUS 1.6 TDCI TREND / 6 İLERİ VİTES - 2",
+            "2013 FORD FOCUS 1.6 TDCI TREND / 6 İLERİ VİTES - 3",
+            "DACIA DUSTER 1.5 DCI OTOMATİK LAUREATE 2017 186 BİN  KM  HASAR TOK DEĞİŞEN YOK MUAYENSİ 2027 KADAR GEÇERLİ BAKIMLARI YEN - 1",
+            "DACIA DUSTER 1.5 DCI OTOMATİK LAUREATE 2017 186 BİN  KM  HASAR TOK DEĞİŞEN YOK MUAYENSİ 2027 KADAR GEÇERLİ BAKIMLARI YEN - 2",
+            "DACIA DUSTER 1.5 DCI OTOMATİK LAUREATE 2017 186 BİN  KM  HASAR TOK DEĞİŞEN YOK MUAYENSİ 2027 KADAR GEÇERLİ BAKIMLARI YEN - 3",
+            "Memurdan Çıtır Hasarlı  - 1",
+            "Memurdan Çıtır Hasarlı  - 2",
+            "Memurdan Çıtır Hasarlı  - 3",
+            "STATİON WAGON  \" LPG TAKILMADI \" - 1",
+            "STATİON WAGON  \" LPG TAKILMADI \" - 2",
+            "STATİON WAGON  \" LPG TAKILMADI \" - 3",
+            "    Sahibinden Ekonomik Yakıtlı Orijinal Tramersiz 2012 Symbol 1.2 LPG - 1",
+            "    Sahibinden Ekonomik Yakıtlı Orijinal Tramersiz 2012 Symbol 1.2 LPG - 2",
+            "    Sahibinden Ekonomik Yakıtlı Orijinal Tramersiz 2012 Symbol 1.2 LPG - 3",
+            "Sahibinden 1.16i Urban Line 2012 BMW - 1",
+            "Sahibinden 1.16i Urban Line 2012 BMW - 2",
+            "Sahibinden 1.16i Urban Line 2012 BMW - 3",
+            "İLK SAHİBİNDEN BOYASIZ SKODA FABİA 1.5 TSİ 150 PS DSG PREMİUM - 1",
+            "İLK SAHİBİNDEN BOYASIZ SKODA FABİA 1.5 TSİ 150 PS DSG PREMİUM - 2",
+            "İLK SAHİBİNDEN BOYASIZ SKODA FABİA 1.5 TSİ 150 PS DSG PREMİUM - 3",
+            "2014 model golf higline ACT...... - 1",
+            "2014 model golf higline ACT...... - 2",
+            "2014 model golf higline ACT...... - 3",
+            "Boyasız,değişensiz,hasarsız captur. - 1",
+            "Boyasız,değişensiz,hasarsız captur. - 2",
+            "Boyasız,değişensiz,hasarsız captur. - 3",
+            "2022 DS7 LOUVRE ÖZEL SERİ 65.000K Km GECE GÖRÜŞ+FOCAL+SOĞUTMA+ISITMA+HAFIZA VS…. - 1",
+            "2022 DS7 LOUVRE ÖZEL SERİ 65.000K Km GECE GÖRÜŞ+FOCAL+SOĞUTMA+ISITMA+HAFIZA VS…. - 2",
+            "2022 DS7 LOUVRE ÖZEL SERİ 65.000K Km GECE GÖRÜŞ+FOCAL+SOĞUTMA+ISITMA+HAFIZA VS…. - 3",
+            "Askeri personelden temiz fluance - 1",
+            "Askeri personelden temiz fluance - 2",
+            "Askeri personelden temiz fluance - 3",
+            "Sedan",
+            "Sedan",
+            "Hatchback",
+            "Hatchback",
+            "Suv",
+            "Suv",
+            "Coupe",
+            "Coupe",
+            "Cabriolet",
+            "Cabriolet",
+            "Pick-up",
+            "Pick-up",
+            "Roadster",
+            "Roadster",
+            "Crossover",
+            "Crossover",
+            "Quadricycle",
+            "Quadricycle",
+            "Station Wagon",
+            "Station Wagon",
+            "AUDI",
+            "BMW",
+            "CHERY",
+            "DACIA",
+            "DS",
+            "FIAT",
+            "FORD",
+            "HONDA",
+            "HYUNDAI",
+            "JEEP",
+            "KIA",
+            "LAND ROVER",
+            "MAZDA",
+            "MERCEDES",
+            "MG",
+            "MINI",
+            "MITSUBISHI",
+            "OPEL",
+            "PEUGEOT",
+            "RENAULT",
+            "SKODA",
+            "SUZUKI",
+            "TOYOTA",
+            "VOLKSWAGEN",
+            "VOLVO"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.otoplus.com/",
+        "PageTitle": "İkinci El Satılık Araba, Araç Alım - Satım ve Takas - otoplus",
+        "MetaDescription": "Para iade garantili ikinci el satılık araç, otomobil modelleri otoplus'ta'ta sizleri bekliyor. İsterseniz ikinci el aracınızı satabilir, isterseniz de en uygun fiyata alacağınız online alışveriş sitesi.",
+        "H1": "Güvenle Araç Al",
+        "H2": "Bizi tercih edenmüşterilerimizin hikayeleri",
+        "H3": "Opel MOKKA",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "https://otoplus.com/image-cnv/aHR0cHM6Ly9jZG4ub3RvcGx1cy5jb20vYXNzZXRzLTE3NDE5NTM4NTUyMTUvaW1nL2xvZ28tc3F1YXJlLXY0LnBuZw==",
+        "ImageAltTexts": [
+            "otoplus",
+            "Menü",
+            "otoplus’ın artısına güvendim",
+            "Aracımı beklemeden satmak için otoplus’a geldim",
+            "Hayalimdeki araca otoplus’la kavuştum",
+            "Aracımı gönül rahatlığıyla otoplus’a sattım",
+            "otoplus’tan araç alırken hiçbir ekstra masrafla uğraşmadım",
+            "otoplus’ta araç satış süreci çok güvenilirdi",
+            "otoplus garantisiyle içim rahat",
+            "otoplus’ta aracımı sattıktan sonra ödememi anında aldım",
+            "Aracımı değerinde sattım",
+            "Değerinde fiyat",
+            "Şeffaf ekspertiz",
+            "Anında ödeme",
+            "Sürpriz masraf yok",
+            "12 ay/20.000 km garanti",
+            "20 gün içinde iade garantisi",
+            "Profesyonel ekspertiz",
+            "Kullanım Şekline Göre Doğru Araba Almak Neden Önemli?",
+            "Araç Değerleme Sürecini Etkileyen Faktörler",
+            "Şehir İçi Kullanımı En Rahat Araç Modelleri",
+            "otoplus"
+        ],
+        "JSONLD": {
+            "@context": "http://schema.org",
+            "@graph": [
+                {
+                    "@type": "WebSite",
+                    "url": "https://otoplus.com",
+                    "name": "otoplus",
+                    "alternateName": "otoplus",
+                    "potentialAction": {
+                        "@type": "SearchAction",
+                        "target": "https://otoplus.com/al?arama={search_term_string}",
+                        "query-input": "required name=search_term_string"
+                    }
+                },
+                {
+                    "@type": "Organization",
+                    "name": "otoplus",
+                    "url": "https://otoplus.com",
+                    "logo": "https://cdn.otoplus.com/wheel-google-v2.png",
+                    "sameAs": [
+                        "https://www.https://www.facebook.com/letgo",
+                        "https://www.instagram.com/letgo",
+                        "https://twitter.com/letgo",
+                        "https://www.linkedin.com/company/5049554"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://www.ikinciyeni.com/",
+        "PageTitle": "İkinci El Araba Açık Artırma, İade Garantili - ikinciyeni.com",
+        "MetaDescription": "İkinci el araba açık arttırmaları İkinciyeni’de. İkinci el araba almak ve açık arttırma ile satmak İkinciyeni ile çok basit. Detaylı bilgi için hemen tıklayın.",
+        "H1": "ikinciyeni.com ile kafandaki sorulara nokta koy!",
+        "H2": "Güvenle Tıkla, Al-Sat Hızla!",
+        "H3": "İade Olanağı",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "İkinciyeni.com",
+            "İkinciyeni.com",
+            "İkinciyeni.com",
+            "İade Olanağı",
+            "Detaylı Ekspertiz",
+            "Kolay & Zahmetsiz Satış Süreci",
+            "Esnek Ödeme Kolaylığı",
+            "Aracın Kapında",
+            "Anadolu Grubu Güvencesi",
+            "Hemen Araba Al",
+            "Hemen Araba Al",
+            "Aracın Tek Tıkla Kapında!",
+            "ikinciyeni.com Üyelerine OtoKonfor indirimi!",
+            "ikinciyeni.com & kargobul.com.tr",
+            "ikinciyeni.com & bilet.com",
+            "ikinciyeni.com & bilet.com",
+            "ikinciyeni.com & flo",
+            "ikinciyeni.com & lumberjack",
+            "ikinciyeni.com Üyelerine OtoKonfor indirimi!",
+            "ikinciyeni.com & kargobul.com.tr",
+            "ikinciyeni.com App Store",
+            "ikinciyeni.com Google Play Store",
+            "İkinci El Araçta 6 Ay ve 6.000 Km Düzenlemesi 2022",
+            "Kış Lastiği Özellikleri ile İlgili Yanlış Bilinenler ve Merak Edilenler",
+            "Elektrikli Otomobil Almadan Önce Bilinmesi Gerekenler",
+            "İkinciyeni",
+            "İkinciyeni App Store",
+            "İkinciyeni Google Play Store",
+            "Anadolu Grubu",
+            "Güvenli Ödeme",
+            "Troy",
+            "Mastercard",
+            "Visa"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "url": "https://www.ikinciyeni.com/",
+            "logo": "https://www.ikinciyeni.com/favicon/android-icon-192x192.png"
+        }
+    },
+    {
+        "URL": "https://www.otosor.com.tr/araclar",
+        "PageTitle": "Taksitle ve Senetle İkinci El Araba Fiyatları ",
+        "MetaDescription": "Tıkla ve hayalindeki aracı keşfet. %30 peşinat ile senetle araba sahibi ol. 48 aya varan vade seçenekleriyle taksitle ikinci el araba alma fırsatı OtoSOR'da! ",
+        "H1": "",
+        "H2": "Otomobil Satın Almanın En Avantajlı Yolu: Taksitle ve Senetle Araba",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "Fiat Fiorino Combi 1.3 Multijet Pop 95HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "white logo",
+            "Dacia Lodgy 1.5 Bluedci (7 Koltuk) Laureate 95HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "white logo",
+            "Fiat Egea Cross 1.6 Multijet Street Plus Dct 130HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "white logo",
+            "Toyota Yaris 1.33 Style 99HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "Citroen C4 1.4 Vti Attraction 95HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "Peugeot 208 1.2 Puretech Allure Selection Eat8 130HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "Opel Crossland 1.5 Turbo Dizel Edition AT6 120HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "BMW X1 18i Sdrive X Line 136HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "Volkswagen Beetle 1.2 Tsi Bmt Design Dsg 105HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "Volkswagen Amarok 2.0 Tdi 4x4 Style 205HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "Kia Stonic 1.4 Dpi Cool 100HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "Renault Clio 1.0 Tce Rs Line 100HP",
+            "gearshift icon",
+            "tire icon",
+            "car icon",
+            "slider 1",
+            "gearshift icon",
+            "tire icon",
+            "car frame icon",
+            "slider 1",
+            "gearshift icon",
+            "tire icon",
+            "car frame icon",
+            "slider 1",
+            "gearshift icon",
+            "tire icon",
+            "car frame icon",
+            "slider 1",
+            "gearshift icon",
+            "tire icon",
+            "car frame icon",
+            "slider 1",
+            "gearshift icon",
+            "tire icon",
+            "car frame icon",
+            "Footer logo"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Anasayfa",
+                    "item": "https://www.otosor.com.tr/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": "2",
+                    "name": "Araçlar",
+                    "item": "https://www.otosor.com.tr/araclar"
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://www.carvak.com/tr/satilik-arac",
+        "PageTitle": "Satılık İkinci El Araba | Carvak.com Garantili, Sertifikalı",
+        "MetaDescription": "2. Güvenli, şeffaf, hızlı | 21 ay / 35.000 km garantili, sertifikalı 2. el araba satın alın. Carvak.com'un harika fiyatları ile yüzlerce çeşit arabamızı keşfedin ✅",
+        "H1": "Satılık İkinci El Araba",
+        "H2": " Soy tu asistente virtual de Kavak",
+        "H3": "¡Hola! ",
+        "OpenGraphTitle": "Satılık İkinci El Araba | Carvak.com Garantili, Sertifikalı",
+        "OpenGraphDescription": "2. Güvenli, şeffaf, hızlı | 21 ay / 35.000 km garantili, sertifikalı 2. el araba satın alın. Carvak.com'un harika fiyatları ile yüzlerce çeşit arabamızı keşfedin ✅",
+        "OpenGraphImage": "https://images.kavak.services/tr/assets/images/home/webp/main-hero-carvak-lg.webp",
+        "ImageAltTexts": [
+            "Tesla • Model Y",
+            "Hyundai • I20",
+            "Tesla • Model Y",
+            "Seat • Ateca",
+            "Hyundai • I20",
+            "Volkswagen • Polo"
+        ],
+        "JSONLD": {
+            "@graph": [
+                {
+                    "url": "https://www.carvak.com/tr/satilik-arac",
+                    "name": "Satılık İkinci El Araba | Carvak.com Garantili, Sertifikalı",
+                    "@type": "WebPage",
+                    "@context": "https://schema.org",
+                    "breadcrumb": {
+                        "@type": "BreadcrumbList",
+                        "numberOfItems": 2,
+                        "itemListElement": [
+                            {
+                                "item": {
+                                    "@id": "https://www.carvak.com/tr/",
+                                    "name": "Anasayfa"
+                                },
+                                "@type": "ListItem",
+                                "position": 1
+                            },
+                            {
+                                "item": {
+                                    "@id": "https://www.carvak.com/tr/satilik-arac",
+                                    "name": "Satılık İkinci El Araba"
+                                },
+                                "@type": "ListItem",
+                                "position": 2
+                            }
+                        ]
+                    },
+                    "inLanguage": "tr",
+                    "mainEntity": {
+                        "@type": "WebPageElement",
+                        "offers": {
+                            "@type": "Offer",
+                            "@graph": {
+                                "@type": "ItemList",
+                                "@context": "https://schema.org",
+                                "itemListElement": [
+                                    {
+                                        "item": {
+                                            "sku": "279021",
+                                            "url": "https://www.carvak.com/tr/ikinci-el/audi-a4-14_tfsi_s_tronic_design-sedan-2017",
+                                            "name": "Audi A4 1.4 TFSI S TRONIC DESIGN Sedan 2017",
+                                            "@type": "Car",
+                                            "brand": {
+                                                "name": "AUDİ",
+                                                "@type": "Brand"
+                                            },
+                                            "color": "Gri",
+                                            "image": [
+                                                "https://images.kavak.services/images/240694/EXTERIOR-frontSidePilotNear-1679405933232.jpeg?d=756x434",
+                                                "https://images.kavak.services/tr/assets/images/vip/jpg/vip-value-proposition-1-lg.jpg?d=210x120",
+                                                "https://images.kavak.services/images/240694/EXTERIOR-front-1679405905712.jpeg?d=210x120"
+                                            ],
+                                            "model": "A4",
+                                            "offers": {
+                                                "url": "https://www.carvak.com/tr/ikinci-el/audi-a4-14_tfsi_s_tronic_design-sedan-2017",
+                                                "@type": "Offer",
+                                                "price": "1578000",
+                                                "category": "A4",
+                                                "areaServed": "TR",
+                                                "availability": "https://schema.org/InStock",
+                                                "priceCurrency": "TRY"
+                                            },
+                                            "bodyType": "Sedan",
+                                            "description": "Audi A4 1.4 TFSI S TRONIC DESIGN 2017 Sedan model araba Carvak'ta! Kalite sertifikalı, garantili, ekspertiz onaylı aracı incelemek için hemen tıklayın!",
+                                            "itemCondition": "https://schema.org/NewCondition",
+                                            "numberOfDoors": 4,
+                                            "vehicleEngine": {
+                                                "@type": "EngineSpecification",
+                                                "fuelType": "Benzin"
+                                            },
+                                            "numberOfAirbags": [
+                                                "Ön Hava Yastıkları",
+                                                "Yan Hava Yastıkları"
+                                            ],
+                                            "vehicleModelDate": "2017",
+                                            "knownVehicleDamages": "0",
+                                            "mileageFromOdometer": {
+                                                "@type": "QuantitativeValue",
+                                                "value": "161592",
+                                                "unitCode": "KTM"
+                                            },
+                                            "vehicleInteriorType": "Deri",
+                                            "vehicleTransmission": "Otomatik",
+                                            "vehicleConfiguration": "TFSI",
+                                            "vehicleInteriorColor": "Siyah",
+                                            "vehicleSeatingCapacity": 5,
+                                            "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+                                            "vehicleIdentificationNumber": "1BXKF23ZXXJ000000"
+                                        },
+                                        "@type": "ListItem",
+                                        "position": "1"
+                                    },
+                                    {
+                                        "item": {
+                                            "sku": "279600",
+                                            "url": "https://www.carvak.com/tr/ikinci-el/audi-a3-sedan_16_tdi_s_tronic_pi_sportline-sedan-2016",
+                                            "name": "Audi A3 1.6 TDI S TRONIC PI SPORTLINE Sedan 2016",
+                                            "@type": "Car",
+                                            "brand": {
+                                                "name": "AUDİ",
+                                                "@type": "Brand"
+                                            },
+                                            "color": "Beyaz",
+                                            "image": [
+                                                "https://images.kavak.services/images/240694/EXTERIOR-frontSidePilotNear-1679405933232.jpeg?d=756x434",
+                                                "https://images.kavak.services/tr/assets/images/vip/jpg/vip-value-proposition-1-lg.jpg?d=210x120",
+                                                "https://images.kavak.services/images/240694/EXTERIOR-front-1679405905712.jpeg?d=210x120"
+                                            ],
+                                            "model": "A3",
+                                            "offers": {
+                                                "url": "https://www.carvak.com/tr/ikinci-el/audi-a3-sedan_16_tdi_s_tronic_pi_sportline-sedan-2016",
+                                                "@type": "Offer",
+                                                "price": "1180000",
+                                                "category": "A3",
+                                                "areaServed": "TR",
+                                                "availability": "https://schema.org/InStock",
+                                                "priceCurrency": "TRY"
+                                            },
+                                            "bodyType": "Sedan",
+                                            "description": "Audi A3 1.6 TDI S TRONIC PI SPORTLINE 2016 Sedan model araba Carvak'ta! Kalite sertifikalı, garantili, ekspertiz onaylı aracı incelemek için hemen tıklayın!",
+                                            "itemCondition": "https://schema.org/NewCondition",
+                                            "numberOfDoors": 4,
+                                            "vehicleEngine": {
+                                                "@type": "EngineSpecification",
+                                                "fuelType": "Dizel"
+                                            },
+                                            "numberOfAirbags": [
+                                                "Ön Hava Yastıkları",
+                                                "Yan Hava Yastıkları"
+                                            ],
+                                            "vehicleModelDate": "2016",
+                                            "knownVehicleDamages": "3444",
+                                            "mileageFromOdometer": {
+                                                "@type": "QuantitativeValue",
+                                                "value": "143305",
+                                                "unitCode": "KTM"
+                                            },
+                                            "vehicleInteriorType": "Standart",
+                                            "vehicleTransmission": "Otomatik",
+                                            "vehicleConfiguration": "S",
+                                            "vehicleInteriorColor": "Siyah",
+                                            "vehicleSeatingCapacity": 5,
+                                            "driveWheelConfiguration": "https://schema.org/FrontWheelDriveConfiguration",
+                                            "vehicleIdentificationNumber": "1BXKF23ZXXJ000000"
+                                        },
+                                        "@type": "ListItem",
+                                        "position": "2"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "description": "2. Güvenli, şeffaf, hızlı | 15 ay / 25.000 km garantili, sertifikalı 2. el araba satın alın. Carvak.com'un harika fiyatları ile yüzlerce çeşit arabamızı keşfedin ✅"
+                },
+                {
+                    "@id": "https://www.carvak.com/tr/#organization",
+                    "url": "https://www.carvak.com/tr/",
+                    "logo": {
+                        "@id": "https://www.carvak.com/tr/#logo",
+                        "url": "https://minerva-web.kavak.services/assets/kavak_white.png",
+                        "@type": "ImageObject",
+                        "width": 227,
+                        "height": 144,
+                        "caption": "Carvak",
+                        "inLanguage": "tr-TR"
+                    },
+                    "name": "Kavak.com",
+                    "@type": "Organization",
+                    "image": {
+                        "@id": "https://www.carvak.com/tr/#logo"
+                    },
+                    "sameAs": [
+                        "https://www.facebook.com/kavakbr/",
+                        "https://www.instagram.com/kavak.br/",
+                        "https://www.linkedin.com/company/kavakcom"
+                    ]
+                },
+                {
+                    "@id": "https://www.carvak.com/tr/#website",
+                    "url": "https://www.carvak.com/tr/",
+                    "name": "Carvak.com | 2. El Araba Alma ve Satmanın Yeni Yolu",
+                    "@type": "WebSite",
+                    "publisher": {
+                        "@id": "https://www.carvak.com/tr/#organization"
+                    },
+                    "inLanguage": "tr-TR",
+                    "description": "2. el araba alma ve satmanın yeni yolu | Arabanı harika fiyata sat, aynı gün ödemeni al ✅ 15 ay / 25.000 km garantili, sertifikalı 2. el araba satın al ✅",
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": "https://www.carvak.com/tr/?s={search_term_string}",
+                            "query-input": "required name=search_term_string"
+                        }
+                    ]
+                },
+                {
+                    "name": "Carvak Turkey",
+                    "@type": "Product",
+                    "brand": {
+                        "name": "Carvak Turkey",
+                        "@type": "Thing"
+                    },
+                    "image": "https://images.kavak.services/assets/olimpo/images/home/jpg/main-hero-lg.jpg",
+                    "@context": "https://schema.org/",
+                    "description": "İkinci el araba alım satımı",
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "bestRating": "5",
+                        "ratingCount": "225",
+                        "ratingValue": "4.5",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@id": "https://www.carvak.com/tr/satilik-arac/#webpage",
+                    "url": "https://www.carvak.com/tr/satilik-arac/",
+                    "name": "Satılık İkinci El Araba | Carvak.com Garantili, Sertifikalı",
+                    "@type": "CollectionPage",
+                    "isPartOf": {
+                        "@id": "https://www.carvak.com/tr/#website"
+                    },
+                    "breadcrumb": {
+                        "@id": "https://www.carvak.com/tr/satilik-arac/#breadcrumb"
+                    },
+                    "inLanguage": "tr-TR",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://www.carvak.com/tr/satilik-arac/"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "@context": "https://schema.org"
+        }
+    },
+    {
+        "URL": "https://www.sahibinden.com/kategori/otomobil",
+        "PageTitle": "Bir dakika lütfen...",
+        "MetaDescription": "",
+        "H1": "secure.sahibinden.com",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "secure.sahibinden.com için simge"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.letgo.com/araba_c15706?srsltid=AfmBOoo26T1_-IBhVnPaS_b4rAliqxqT-tUFi3uFq6pA3ilkdj55jvLB",
+        "PageTitle": "İkinci El Araba İlanları ve Fiyatları | Letgo",
+        "MetaDescription": "Araba kategorisindeki tüm ilanlari bu kategorimizden inceleyebilir ve fiyatlara göz atabilirsiniz.",
+        "H1": "Araba İlanları ve Fiyatları",
+        "H2": "Araba",
+        "H3": "Sadece Otoplus Arabalarını Getir",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "Letgo",
+            "Letgo",
+            "Otoplus",
+            "Araba",
+            "Telefon",
+            "Elektronik",
+            "Ev & Yaşam",
+            "Motosiklet",
+            "Giyim & Aksesuar",
+            "Kişisel Bakım & Kozmetik",
+            "Anne & Bebek & Oyuncak",
+            "Hobi & Kitap & Müzik",
+            "Ofis & Kırtasiye",
+            "Spor & Outdoor",
+            "Diğer Araçlar",
+            "Yapı Market & Bahçe",
+            "Pet Shop",
+            "Antika",
+            "Otoplus Banner",
+            "chevron-down",
+            "chevron-down",
+            "marker",
+            "Range Rover SPORT",
+            "Skoda RAPID",
+            "Mercedes C180",
+            "Volkswagen POLO",
+            "Nissan NOTE",
+            "Fiat EGEA",
+            "Ford MONDEO",
+            "Opel ASTRA",
+            "Fiat PUNTO",
+            "Mercedes A180",
+            "2020 Fiat EGEA SEDAN MIRROR 1.4 FIRE 95 E6D",
+            "Citroen BERLINGO",
+            "Renault CLIO",
+            "Volkswagen GOLF",
+            "2023 Dacia DUSTER ESSENTIAL 1.3 TCE 150 4x4",
+            "Volkswagen PASSAT",
+            "Nissan MICRA",
+            "Ford FOCUS",
+            "2024 Mg ZS 1.0T 111 6AT LUXURY PLUS",
+            "Toyota COROLLA",
+            "Toyota VERSO",
+            "2014 Opel CORSA 5 KAPI 1.2i TWINPORT ESSENTIA",
+            "Renault 12",
+            "Renault CLIO",
+            "Volvo S40",
+            "Opel ASTRA",
+            "Skoda OCTAVIA",
+            "Skoda KAROQ",
+            "Volkswagen POLO",
+            "Seat IBIZA",
+            "Renault FLUENCE",
+            "Audi A3",
+            "Volkswagen GOLF",
+            "Volkswagen POLO",
+            "Peugeot 207",
+            "Honda CIVIC",
+            "Renault SYMBOL",
+            "Tofas DOGAN",
+            "Fiat MAREA",
+            "Volkswagen POLO",
+            "Renault SYMBOL",
+            "Fiat PUNTO",
+            "Renault MEGANE",
+            "2023 Dacia DUSTER ESSENTIAL 1.3 TCE 150 4x4",
+            "Renault KANGOO",
+            "2024 Mg ZS 1.0T 111 6AT LUXURY PLUS",
+            "Audi A3",
+            "Skoda OCTAVIA",
+            "Letgo",
+            "Letgo",
+            "Letgo",
+            "Letgo"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://www.letgo.com",
+                        "name": "Anasayfa",
+                        "@type": "WebPage"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://www.letgo.com/araba_c15705",
+                        "name": "Araba",
+                        "@type": "WebPage"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "https://www.letgo.com/araba_c15706",
+                        "name": "Araba",
+                        "@type": "WebPage"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://www.otokocikinciel.com/ikinci-el-araba",
+        "PageTitle": "İkinci El Araba Fiyatları ve Modelleri | Otokoç 2. El",
+        "MetaDescription": "Güncel ikinci el araba fiyatları ve modelleri Otokoç 2. El'de. Araçları incele, fiyatları karşılaştır ve tüm özelliklerini keşfet.",
+        "H1": "2. El     Araç İlanları",
+        "H2": "Filtreler",
+        "H3": "Aracın Durumu",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "Sedan",
+            "Hatchback",
+            "Suv",
+            "AĞIR BAKIMLARI TAM MASRAFSIZ VOLKSWAGEN POLO - 1",
+            "AĞIR BAKIMLARI TAM MASRAFSIZ VOLKSWAGEN POLO - 2",
+            "AĞIR BAKIMLARI TAM MASRAFSIZ VOLKSWAGEN POLO - 3",
+            "2013 FORD FOCUS 1.6 TDCI TREND / 6 İLERİ VİTES - 1",
+            "2013 FORD FOCUS 1.6 TDCI TREND / 6 İLERİ VİTES - 2",
+            "2013 FORD FOCUS 1.6 TDCI TREND / 6 İLERİ VİTES - 3",
+            "RENAULT-MEGANE-SEDAN JOY COMFORT 1.3 TCE 140 BG EDC - 1",
+            "RENAULT-MEGANE-SEDAN JOY COMFORT 1.3 TCE 140 BG EDC - 2",
+            "RENAULT-MEGANE-SEDAN JOY COMFORT 1.3 TCE 140 BG EDC - 3",
+            "DACIA DUSTER 1.5 DCI OTOMATİK LAUREATE 2017 186 BİN  KM  HASAR TOK DEĞİŞEN YOK MUAYENSİ 2027 KADAR GEÇERLİ BAKIMLARI YEN - 1",
+            "DACIA DUSTER 1.5 DCI OTOMATİK LAUREATE 2017 186 BİN  KM  HASAR TOK DEĞİŞEN YOK MUAYENSİ 2027 KADAR GEÇERLİ BAKIMLARI YEN - 2",
+            "DACIA DUSTER 1.5 DCI OTOMATİK LAUREATE 2017 186 BİN  KM  HASAR TOK DEĞİŞEN YOK MUAYENSİ 2027 KADAR GEÇERLİ BAKIMLARI YEN - 3",
+            "Memurdan Çıtır Hasarlı  - 1",
+            "Memurdan Çıtır Hasarlı  - 2",
+            "Memurdan Çıtır Hasarlı  - 3",
+            "DACIA-SANDERO-SANDERO AMBIANCE 1.2 16V 75 BG - 1",
+            "DACIA-SANDERO-SANDERO AMBIANCE 1.2 16V 75 BG - 2",
+            "DACIA-SANDERO-SANDERO AMBIANCE 1.2 16V 75 BG - 3",
+            "STATİON WAGON  \" LPG TAKILMADI \" - 1",
+            "STATİON WAGON  \" LPG TAKILMADI \" - 2",
+            "STATİON WAGON  \" LPG TAKILMADI \" - 3",
+            "    Sahibinden Ekonomik Yakıtlı Orijinal Tramersiz 2012 Symbol 1.2 LPG - 1",
+            "    Sahibinden Ekonomik Yakıtlı Orijinal Tramersiz 2012 Symbol 1.2 LPG - 2",
+            "    Sahibinden Ekonomik Yakıtlı Orijinal Tramersiz 2012 Symbol 1.2 LPG - 3",
+            "TOYOTA-COROLLA-1.8 HYBRID DREAM E-CVT - 1",
+            "TOYOTA-COROLLA-1.8 HYBRID DREAM E-CVT - 2",
+            "TOYOTA-COROLLA-1.8 HYBRID DREAM E-CVT - 3",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 1",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 2",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 3",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 1",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 2",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 3",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 1",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 2",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 3",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 1",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 2",
+            "RENAULT-MEGANE-SEDAN JOY 1.5 BLUE DCI 115 bg EDC - 3",
+            "RENAULT-CLIO-JOY 1.0 TCE X-TRONIC 90 BG - 1",
+            "RENAULT-CLIO-JOY 1.0 TCE X-TRONIC 90 BG - 2",
+            "RENAULT-CLIO-JOY 1.0 TCE X-TRONIC 90 BG - 3",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 1",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 2",
+            "FORD-FOCUS-1.5L TDCI 120PS TREND X AUTO - 3"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://borusannext.com/araba-al",
+        "PageTitle": "Satılık İkinci El Araba Modelleri ve Fiyatları - Borusan Next",
+        "MetaDescription": "İkinci El araba modelleri ve fiyatları ile en güncel otomobil ilanları Borusan Next’te. Tüm araba modellerini görmek için tıklayın!",
+        "H1": "Satılık İkinci El Araba Modelleri ve Fiyatları",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "Borusan Next",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "Borusan Next",
+            "Audi Q2 2020",
+            "Audi Q2 2020",
+            "Audi Q2 2020",
+            "Audi Q2",
+            "Jaguar I-PACE 2023",
+            "Jaguar I-PACE 2023",
+            "Jaguar I-PACE 2023",
+            "Jaguar I-PACE",
+            "Range Rover Velar 2023",
+            "Range Rover Velar 2023",
+            "Range Rover Velar 2023",
+            "Range Rover Velar",
+            "Range Rover Sport 2023",
+            "Range Rover Sport 2023",
+            "Range Rover Sport 2023",
+            "Range Rover Sport",
+            "BMW 3 Serisi 2022",
+            "BMW 3 Serisi 2022",
+            "BMW 3 Serisi 2022",
+            "BMW Premium Selection",
+            "BMW Premium Selection",
+            "BMW 3 Serisi",
+            "BMW Alpina 2024",
+            "BMW Alpina 2024",
+            "BMW Alpina 2024",
+            "BMW Alpina",
+            "Citroen C3 2023",
+            "Citroen C3 2023",
+            "Citroen C3 2023",
+            "Citroen C3",
+            "Audi Q7 2014",
+            "Audi Q7 2014",
+            "Audi Q7 2014",
+            "Audi Q7",
+            "Mercedes - Benz EQS 2022",
+            "Mercedes - Benz EQS 2022",
+            "Mercedes - Benz EQS 2022",
+            "Mercedes - Benz EQS",
+            "Opel Corsa 2024",
+            "Opel Corsa 2024",
+            "Opel Corsa 2024",
+            "Opel Corsa",
+            "Range Rover Evoque 2023",
+            "Range Rover Evoque 2023",
+            "Range Rover Evoque 2023",
+            "Range Rover Evoque",
+            "BMW 3 Serisi 2018",
+            "BMW 3 Serisi 2018",
+            "BMW 3 Serisi 2018",
+            "BMW 3 Serisi"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "ItemList",
+                    "position": 1,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2020 Audi Q2",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/599000/img8081_780_9_2_17_6_3_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/audi/q2/05990001",
+                        "description": "2020 Audi 30 TDI Design 116 BG Otomatik",
+                        "sku": "Audi30 TDI Design 116 BG2020",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Audi"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/audi/q2/05990001",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "1665000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 2,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Jaguar I-PACE",
+                        "image": "https://cdn-bnext.borusanotomotiv.com/media/255327/255327_89a5b442-1c86-4b84-aafb-a407f8b8e841.jpg",
+                        "url": "https://borusannext.com/araba-al/jaguar/i-pace/05706226",
+                        "description": "2023 Jaguar HSE Otomatik",
+                        "sku": "JaguarHSE2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Jaguar"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/jaguar/i-pace/05706226",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "2985000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 3,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Range Rover Velar",
+                        "image": "https://cdn-bnext.borusanotomotiv.com/media/252372/252372_5efdc359-c709-478f-b7cc-cf39d54a8eab.jpg",
+                        "url": "https://borusannext.com/araba-al/range-rover/velar/05638518",
+                        "description": "2023 Range Rover 2.0 TD4 S Otomatik",
+                        "sku": "Range Rover2.0 TD4 S2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Range Rover"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/range-rover/velar/05638518",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "5410000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 4,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Range Rover Sport",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/571993/whatsappimage2024-10-01at09_359_53_49_8_16_10_2024.jpeg",
+                        "url": "https://borusannext.com/araba-al/range-rover/sport/05719934",
+                        "description": "2023 Range Rover 3.0 SDV6 HSE Dynamic 300 BG  Otomatik",
+                        "sku": "Range Rover3.0 SDV6 HSE Dynamic 300 BG 2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Range Rover"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/range-rover/sport/05719934",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "11630000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 5,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2022 BMW 3 Serisi",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/591132/img0028_136_26_51_7_28_1_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/bmw/3-serisi/05911323",
+                        "description": "2022 BMW 320i Luxury Line 170 BG Otomatik",
+                        "sku": "BMW320i Luxury Line 170 BG2022",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "BMW"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/bmw/3-serisi/05911323",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "2595000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 6,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2024 BMW Alpina",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/593769/20250110150607_298_35_35_14_20_1_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/bmw/alpina/05937693",
+                        "description": "2024 BMW B8 Gran Coupe 621 BG Otomatik",
+                        "sku": "BMWB8 Gran Coupe 621 BG2024",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "BMW"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/bmw/alpina/05937693",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "25500000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 7,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Citroen C3",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/574426/photo-2025-03-07-13-47-59[4]_285_28_2_14_7_3_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/citroen/c3/05744260",
+                        "description": "2023 Citroen 1.2 Puretech Elle 110 BG Otomatik",
+                        "sku": "Citroen1.2 Puretech Elle 110 BG2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Citroen"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/citroen/c3/05744260",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "980000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 8,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2014 Audi Q7",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/587589/img3540_723_16_17_17_12_1_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/audi/q7/05875899",
+                        "description": "2014 Audi 3.0 TDI Quattro 240 BG Otomatik",
+                        "sku": "Audi3.0 TDI Quattro 240 BG2014",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Audi"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/audi/q7/05875899",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "2420000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 9,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2022 Mercedes - Benz EQS",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/582920/d77ff11a-2c0f-4a51-9a1f-b0815eeebdac_186_11_38_18_27_11_2024.jpg",
+                        "url": "https://borusannext.com/araba-al/mercedes-benz/eqs/05829204",
+                        "description": "2022 Mercedes - Benz 580 523 BG Otomatik",
+                        "sku": "Mercedes - Benz580 523 BG2022",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Mercedes - Benz"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/mercedes-benz/eqs/05829204",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "5050000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 10,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2024 Opel Corsa",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/570362/img0057_213_36_27_12_1_11_2024.JPEG",
+                        "url": "https://borusannext.com/araba-al/opel/corsa/05703621",
+                        "description": "2024 Opel 1.2 T Edition 100 BG Otomatik",
+                        "sku": "Opel1.2 T Edition 100 BG2024",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Opel"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/opel/corsa/05703621",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "1090000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 11,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2023 Range Rover Evoque",
+                        "image": "https://cdn-bnext.borusanotomotiv.com/media/249027/249027_23ad0dd6-4398-4a93-8622-5032c6ad4eb8.jpg",
+                        "url": "https://borusannext.com/araba-al/range-rover/evoque/05587981",
+                        "description": "2023 Range Rover 1.5 R-Dynamic SE Otomatik",
+                        "sku": "Range Rover1.5 R-Dynamic SE2023",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "Range Rover"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/range-rover/evoque/05587981",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "3700000"
+                        }
+                    }
+                },
+                {
+                    "@type": "ItemList",
+                    "position": 12,
+                    "item": {
+                        "@type": "Product",
+                        "name": "2018 BMW 3 Serisi",
+                        "image": "https://jarviscdn-prod.azureedge.net/jarvis-files-container/Modified/vehicle/599579/20250311085759_981_24_45_12_11_3_2025.JPEG",
+                        "url": "https://borusannext.com/araba-al/bmw/3-serisi/05995792",
+                        "description": "2018 BMW 330i xDrive Edition M Sport 252 BG Otomatik",
+                        "sku": "BMW330i xDrive Edition M Sport 252 BG2018",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "BMW"
+                        },
+                        "offers": {
+                            "@type": "Offer",
+                            "url": "https://borusannext.com/araba-al/bmw/3-serisi/05995792",
+                            "priceCurrency": "TRY",
+                            "availability": "https://schema.org/InStock",
+                            "itemCondition": "https://schema.org/UsedCondition",
+                            "price": "1840000"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://www.otoplus.com/al",
+        "PageTitle": "İkinci El Araç Al, Satılık İkinci El Oto Fiyatları - otoplus",
+        "MetaDescription": "Al - Sat - Kolayca Hallet!",
+        "H1": "Aradığınız kriterlerde araç bulunamadı.",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "https://otoplus.com/image-cnv/aHR0cHM6Ly9jZG4ub3RvcGx1cy5jb20vYXNzZXRzLTE3NDE5NTM4NTUyMTUvaW1nL2xvZ28tc3F1YXJlLXY0LnBuZw==",
+        "ImageAltTexts": [
+            "otoplus",
+            "Menü",
+            "otoplus"
+        ],
+        "JSONLD": {
+            "@context": "http://schema.org",
+            "@graph": [
+                {
+                    "@type": "WebSite",
+                    "url": "https://otoplus.com",
+                    "name": "otoplus",
+                    "alternateName": "otoplus",
+                    "potentialAction": {
+                        "@type": "SearchAction",
+                        "target": "https://otoplus.com/al?arama={search_term_string}",
+                        "query-input": "required name=search_term_string"
+                    }
+                },
+                {
+                    "@type": "Organization",
+                    "name": "otoplus",
+                    "url": "https://otoplus.com",
+                    "logo": "https://cdn.otoplus.com/wheel-google-v2.png",
+                    "sameAs": [
+                        "https://www.https://www.facebook.com/letgo",
+                        "https://www.instagram.com/letgo",
+                        "https://twitter.com/letgo",
+                        "https://www.linkedin.com/company/5049554"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://tr.vava.cars/",
+        "PageTitle": "",
+        "MetaDescription": "",
+        "H1": "",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://dod.com.tr/",
+        "PageTitle": "İkinci El Araç Alım Satımın Güvenilir Adresi | DOD",
+        "MetaDescription": "Güvenilir, hızlı ve en konforlu şekilde ikinci el araç alım ve satımı yapmak için ziyaret edin. Her marka ve modelde ikinci el araç alım-satımını DOD ile yapın.",
+        "H1": "",
+        "H2": "Size en uygun aracı bulmak için aramaya başlayın.",
+        "H3": "Kalabalık Aileler",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "DOD",
+            "Mercedes-benz S-serisi, 2.9 S 400 D 4matıc L Vısıon ",
+            "Volkswagen Passat, ",
+            "Ford Focus, ",
+            "Volkswagen Polo, ",
+            "Audi Q3, ",
+            "Audi A3, ",
+            "Audi Q8, 55 Tfsı 340 Hp Quattro Tıptronıc ",
+            "Volkswagen Tiguan, ",
+            "Volkswagen Golf, ",
+            "Citroen C-elysee, Feel 1.5 Bluehdı 100hp ",
+            "Volkswagen Golf, ",
+            "Audi A5, ",
+            "Skoda Superb, ",
+            "Volkswagen Tiguan, ",
+            "Ford Focus, ",
+            "Volkswagen Polo, ",
+            "Volkswagen Polo, ",
+            "Volkswagen Golf, ",
+            "Volkswagen T-roc, ",
+            "Mercedes-benz E-serisi, ",
+            "Skoda Fabia, ",
+            "Hyundai I20, ",
+            "Seat Leon, ",
+            "Volkswagen Tiguan, ",
+            "Volkswagen Golf, ",
+            "Volkswagen Passat, ",
+            "Mercedes-benz S-serisi, 2.9 S 400 D 4matıc L Vısıon ",
+            "Volkswagen Passat, ",
+            "Ford Focus, ",
+            "Volkswagen Polo, ",
+            "Audi Q3, ",
+            "Audi A3, ",
+            "Audi Q8, 55 Tfsı 340 Hp Quattro Tıptronıc ",
+            "Volkswagen Tiguan, ",
+            "Volkswagen Golf, ",
+            "Bmw Z4, Sdrıve 28ı Dynamıc Roadster Otm. ",
+            "Download appstore image",
+            "Download google play image",
+            "Download app gallery image",
+            "Facebook icon",
+            "Instagram icon",
+            "Twitter icon",
+            "Youtube icon",
+            "Linkedin icon",
+            "satis destek hatti",
+            "Download appstore image",
+            "Download google play image",
+            "Download app gallery image",
+            "Facebook icon",
+            "Instagram icon",
+            "Twitter icon",
+            "Youtube icon",
+            "Linkedin icon",
+            "satis destek hatti"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "url": "https://dod.com.tr/",
+            "image": "https://dod.com.tr/_nuxt/img/dod-logo.176c438.png",
+            "logo": "https://dod.com.tr/_nuxt/img/dod-logo.176c438.png",
+            "name": "DOD",
+            "description": "Her marka ve modelde güvenilir ikinci el araç alım-satımı DOD’da!",
+            "email": "dogusotomotiv@hs03.kep.tr",
+            "telephone": "444 7 363",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Şekerpınar Mah. Anadolu Cad. No: 22",
+                "addressLocality": "ÇAYIROVA",
+                "addressCountry": "TÜRKİYE",
+                "addressRegion": "KOCAELİ",
+                "postalCode": "41420"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "email": "dogusotomotiv@hs03.kep.tr",
+                "telephone": "444 7 363"
+            }
+        }
+    },
+    {
+        "URL": "https://www.ikinciyeni.com/araba-al",
+        "PageTitle": "Hemen İkinci El Araba Satın Al - ikinciyeni.com",
+        "MetaDescription": "İhaleye katılmadan hızlıca alabileceğin uygun fiyatlı ve iade garantili ikinci el arabalar İkinciyeni.com’da. İkinci el araçları görüntülemek için hemen tıkla.",
+        "H1": "",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "İkinciyeni.com",
+            "İkinciyeni.com",
+            "İkinciyeni.com",
+            "İkinciyeni",
+            "İkinciyeni App Store",
+            "İkinciyeni Google Play Store",
+            "Anadolu Grubu",
+            "Güvenli Ödeme",
+            "Troy",
+            "Mastercard",
+            "Visa"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.carvak.com/tr",
+        "PageTitle": "Carvak.com | 2. El Araba Alma ve Satmanın Yeni Yolu",
+        "MetaDescription": "2. el araba alma ve satmanın yeni yolu | Arabanı harika fiyata sat, aynı gün ödemeni al ✅ 15 ay / 25.000 km garantili, sertifikalı 2. el araba satın al ✅",
+        "H1": " Bu oran sana araba aldırır! %1.59 cazip kredi. ",
+        "H2": " En son eklenenler ",
+        "H3": "Araba Al",
+        "OpenGraphTitle": "Carvak.com | 2. El Araba Alma ve Satmanın Yeni Yolu",
+        "OpenGraphDescription": "2. el araba alma ve satmanın yeni yolu | Arabanı harika fiyata sat, aynı gün ödemeni al ✅ 15 ay / 25.000 km garantili, sertifikalı 2. el araba satın al ✅",
+        "OpenGraphImage": "https://images.kavak.services/tr/assets/images/home/webp/main-hero-promo-lg.webp",
+        "ImageAltTexts": [
+            "Volkswagen",
+            "Hyundai",
+            "Toyota",
+            "BMW",
+            "Renault",
+            "Peugeot",
+            "Kamyonet",
+            "Hatchback",
+            "SUV",
+            "Sedan",
+            "Coupe",
+            "Minivan",
+            "Wagon",
+            "Cotiza y vende tu auto en 1 día",
+            "Cotiza y vende tu auto en 1 día",
+            "Cotiza y vende tu auto en 1 día",
+            "Cotiza y vende tu auto en 1 día",
+            "Tesla • Model Y",
+            "Hyundai • I20",
+            "Tesla • Model Y",
+            "Carvak Total ile garantiyi 21 aya kadar uzatma seçeneği",
+            " Bütün arabalarımız Carvak sertifikalıdır ",
+            "Herkese, her keyfe göre arabalar.",
+            "Cambia o vende tu auto en 1 día",
+            "Cambia o vende tu auto en 1 día"
+        ],
+        "JSONLD": {
+            "@graph": [
+                {
+                    "@id": "https://www.carvak.com/tr/#organization",
+                    "url": "https://www.carvak.com/tr ",
+                    "logo": {
+                        "@id": "https://www.carvak.com/tr/#logo",
+                        "url": "https://minerva-web.kavak.services/assets/kavak_white.png",
+                        "@type": "ImageObject",
+                        "width": 227,
+                        "height": 144,
+                        "caption": "Carvak",
+                        "inLanguage": "tr-TR"
+                    },
+                    "name": "Carvak.com ",
+                    "@type": "Organization",
+                    "image": {
+                        "@id": "https://www.carvak.com/#logo"
+                    },
+                    "sameAs": [
+                        "https://https://www.facebook.com/carvak.tr",
+                        "https://www.instagram.com/carvak.tr/",
+                        "https://twitter.com/carvak_tr",
+                        "https://www.linkedin.com/company/kavakcom"
+                    ]
+                },
+                {
+                    "@id": "https://www.carvak.com/tr/#website",
+                    "url": "https://www.carvak.com/tr",
+                    "name": "Carvak.com | 2. El Araba Alma ve Satmanın Yeni Yolu",
+                    "@type": "WebSite",
+                    "publisher": {
+                        "@id": "https://www.carvak.com/tr/#organization"
+                    },
+                    "inLanguage": "tr-TR",
+                    "description": "2. el araba alma ve satmanın yeni yolu | Arabanı harika fiyata sat, aynı gün ödemeni al ✅ 21 ay / 35.000 km garantili, sertifikalı 2. el araba satın al ✅",
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": "https://www.carvak.com/tr?s={search_term_string}",
+                            "query-input": "required name=search_term_string"
+                        }
+                    ]
+                },
+                {
+                    "name": "Carvak Turkey",
+                    "@type": "Product",
+                    "brand": {
+                        "name": "Carvak Turkey",
+                        "@type": "Thing"
+                    },
+                    "image": "https://images.kavak.services/assets/olimpo/images/home/jpg/main-hero-lg.jpg",
+                    "@context": "http://schema.org/",
+                    "description": "Carvak.com | 2. El Araba Alma ve Satmanın Yeni Yolu",
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "bestRating": "5",
+                        "ratingCount": "1233 ",
+                        "ratingValue": "4.4",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "@context": "https://schema.org"
+        }
+    },
+    {
+        "URL": "https://www.otoshops.com/tum-arabalar",
+        "PageTitle": "\n\tİkinci El Araba Modelleri ve Fiyatları – Satılık 2. El  Otomobil | Otoshops\n",
+        "MetaDescription": "İkinci el araba fiyatları binlerce model ve markaya göre sizler için listeleniyor. Tıkla ve sana en uygun satılık 2. el aracını seç, uygun fiyata araba sahibi ol!",
+        "H1": "\n        İkinci El Araba Modelleri ve Fiyatları – Satılık 2. El  Otomobil | Otoshops",
+        "H2": "\n                                İkinci el araba fiyatları",
+        "H3": "Onay Tercihlerini Yönet",
+        "OpenGraphTitle": "İkinci El Araba Modelleri ve Fiyatları – Satılık 2. El  Otomobil | Otoshops",
+        "OpenGraphDescription": "İkinci el araba fiyatları binlerce model ve markaya göre sizler için listeleniyor. Tıkla ve sana en uygun satılık 2. el aracını seç, uygun fiyata araba sahibi ol!",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "2010 Opel Astra Sedan 1.6 Enjoy 111 115HP",
+            "2022 Toyota Proace City 1.5 D Dream 130HP",
+            "2023 Renault Clio 1.0 Tce Equilibre X-Tronic 90HP",
+            "2022 Peugeot 2008 1.5 Bluehdi Active Skypack Eat8 130HP",
+            "2022 Peugeot 2008 1.5 Bluehdi Active Skypack Eat8 130HP",
+            "2023 Opel Corsa 1.2 Turbo Edition 100HP",
+            "2023 Nissan Juke 1.0 DIG-T Tekna Dct 115HP",
+            "2021 Renault Clio 1.0 Tce Joy X-Tronic 90HP",
+            "2023 Suzuki Vitara 1.4 Boosterjet 48V Shvs Mild Hybrid 4x2 Gl Elegance Çift Renk 129HP",
+            "2023 Opel Corsa 1.2 Turbo Edition 100HP",
+            "2023 Suzuki Swift 1.2 Dualjet GL Techno Çift Renk Cvt 83HP",
+            "2024 Opel Mokka 1.2 Turbo Edition 130HP",
+            "2022 Volkswagen Taigo 1.0 Tsi Life Dsg 110HP",
+            "2024 Fiat Fiorino Combi 1.3 Multijet Safeline E6.4 95HP",
+            "2024 Fiat Fiorino Combi 1.3 Multijet Safeline E6.4 95HP",
+            "2021 Volkswagen Caddy Combi 2.0 Tdi Impression Dsg 122HP",
+            "2024 Peugeot 2008 1.2 Puretech Allure Eat8 130HP",
+            "2024 Ford Focus 1.5 Ecoblue Titanium X 115HP",
+            "2024 Ford Focus 1.5 Ecoblue Titanium X 115HP",
+            "2024 Fiat Fiorino Combi 1.3 Multijet Pop E6.4 95HP",
+            "Alternate Text",
+            "Alternate Text",
+            "Otoshops alt yapısı B2 Yazılım tarafından geliştirilmiştir.",
+            "Şirket Logosu",
+            "Powered by Onetrust"
+        ],
+        "JSONLD": {
+            "@context": "http://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Aracın piyasasına hakim misiniz?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "İkinci el arabalar kullanım durumuna ve aracın yaşına bağlı olarak geniş bir fiyat skalasına sahip. Bu sebeple alacağınız arabanın piyasasına hakim olmanız dikkat etmeniz gereken ilk nokta. Detaylı bir araştırmanın ardından ulaşacağınız ortalama bir değer, zarar etmenizi engelleyeceği gibi sonraki satışınızı da kolaylaştırabilir."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "İkinci el araba piyasasında popüler mi?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "İkinci el piyasasında popüler bir araba almanın birçok avantajı var. Piyasası yüksek bir araba alırsanız tekrar satmak istediğinizde daha kolay alıcı bulabilirsiniz. Diğer taraftan piyasada çok tutulan bir arabanın bakım ve yedek parça ihtiyaçlarını karşılamak da çok daha kolay."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Aracın fiyatı uygun mu?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Fiyat uygunluğu verimli bir alışverişin ilk şartını oluşturuyor. Araç piyasasıyla ilgili detaylı bir inceleme yapmak veya beğendiğiniz aracı sınıfındaki diğer araçlarla karşılaştırmak fiyatının uygunluğu hakkında size ipucu verebilir."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Araç daha önce ne amaçla kullanılmış?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Bir arabadan performans, sağlamlık veya estetik gibi birbirinden farklı beklentileriniz olabilir. Bunların karşılanması büyük ölçüde aracın daha önce ne şekilde kullanıldığıyla ilgili. Örneğin binek araba almak istiyorsanız daha önce ticari amaçlarla kullanılmadığına dikkat etmeniz gerekiyor."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "İhtiyaçlarınızı karşılıyor mu?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Satış sonrası pişmanlık yaşamamak için beklentilerinizin ne olduğuna iyice karar vermelisiniz. Bazı arabalar özellikle aileler için geniş bir iç hacim sunarken bazıları sportif kullanımlar için yüksek performans imkanı veriyor. Bu noktada arabanın sunduklarıyla ihtiyaçlarınızın örtüşmesi büyük önem taşıyor."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Değişen/boyalı parçası var mı?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Değişen veya boyalı parçalar ikinci el arabaların geçmişi hakkında ipucu veriyor. Bu kimi zaman aracın yaşına göre doğal karşılanabilecek seviyede ufak sorunları içerse de kimi durumlarda ağır hasar geçmişinin bir sonucu olabiliyor. Alacağınız aracın değişen veya boyalı parçası olması onu almanıza engel değil; ancak bu detaylı bir ekspertiz raporuna ihtiyaç olduğunu gösteriyor."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Kaza geçmişi var mı?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Bir aracın değişen parçalara sahip olması kesinlikle kaza yaptığı anlamına gelmiyor. Kaza geçmişiyle ilgili en doğru bilgiye ulaşmak için mutlaka plaka sorgulaması yapılmalı. Alacağınız aracın plakasını 5664’e SMS atarak geçmişteki tüm kaza kayıtlarına ulaşabilirsiniz."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Şasi ve motor numaralarını kontrol ettiniz mi?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Şasi ve motor numaralarını sorgulamak güvenli alışverişin ilk adımlarından biri. Ön cam kenarında veya şoför kapısının altında yazan şasi numarası arabaların kimlik numarası niteliğinde. Araçta yazan şasi ve motor numaralarının ruhsatta yazanlara mutlaka uyuşması gerekiyor. Bu şekilde çalıntı araç alışverişinin önüne de geçebilirsiniz."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Test sürüşü imkanınız var mı?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Kağıt üzerinde her şey mükemmel görünebilir ancak yine de yeterli değil. Alacağınız arabanın size uygunluğunu anlamak için test sürüşü yapmanız gerekiyor. Bu sayede arabanın yürüyen aksamlarında sorun olup olmadığını da anlayabilirsiniz. Ancak kısa bir test sürüşüyle her şeyi anlamak mümkün olmadığı için güvenilir bir ekspertiz mutlaka şart."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Kilometresi orijinal mi?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "İkinci el araba satışlarında güven unsurunu ortadan kaldıran uygulamaların başında kilometre düşürülmesi geliyor. Bu etik dışı uygulamayı anlayabilmek için birçok yol mevcut. Tramer sorgulaması yaparak muayene sırasındaki kilometre verilerini mevcut olanla karşılaştırabilirsiniz. Aracın servis ve bakım kayıtlarına bakmak da önemli bir ipucu olabilir. Ancak en kesin sonuca ulaşmak için yetkili servisten ekspertiz raporu alınması gerekiyor."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Alışverişiniz güvende mi?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Herhangi bir mağduriyet yaşamamak için araç alım ve satım işlemlerinizi noter huzurunda yapmanız gerekiyor. Araç üzerindeki haciz veya tahdit gibi durumları sorgulama işlemi notere gitmeden önce yapılmalı. Ödeme işlemini güvenli bir şekilde yapmak için nakit ödemeden kaçınarak banka yoluyla havale yönteminin kullanılması gerekiyor."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Garantisi var mı?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Alacağınız arabayı oto pazarından veya bir internet sitesinden bulmuş olabilirsiniz. Sizin için önemli olan tüm şartları sağlasa bile garantisi olmayan bir araç almak birçok problemi beraberinde getirebilir. İkinci el aracınızı OtoShops’tan alarak 2 yıla kadar garanti ve ücretsiz yol yardımı gibi birçok hizmetten güvenilir bir şekilde faydalanabilirsiniz."
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://play.google.com/store/apps/details?id=com.autoscout24&hl=tr",
+        "PageTitle": "AutoScout24: Araba Al ve Sat - Google Play'de Uygulamalar",
+        "MetaDescription": "2 milyondan fazla sıfır ve ikinci el araba, kamyonet ve motorsiklet",
+        "H1": "AutoScout24: Araba Al ve Sat",
+        "H2": "Bu uygulama hakkında",
+        "H3": "",
+        "OpenGraphTitle": "AutoScout24: Araba Al ve Sat - Google Play'de Uygulamalar",
+        "OpenGraphDescription": "2 milyondan fazla sıfır ve ikinci el araba, kamyonet ve motorsiklet",
+        "OpenGraphImage": "https://play-lh.googleusercontent.com/Qa90bmVrFgO950-lwOLTAkHllRsO_rBD9vRwN5q1pd_i2wQePAnTs17P2jExz40W_uQ",
+        "ImageAltTexts": [
+            "Simge resmi",
+            "Simge resmi",
+            "İçerik derecelendirmesi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Ekran görüntüsü resmi",
+            "Simge resmi",
+            "Simge resmi",
+            "Simge resmi",
+            "Simge resmi",
+            "Küçük resim",
+            "Küçük resim",
+            "Küçük resim",
+            "Küçük resim",
+            "Küçük resim",
+            "Küçük resim"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SoftwareApplication",
+            "name": "AutoScout24: Araba Al ve Sat",
+            "url": "https://play.google.com/store/apps/details/AutoScout24_Araba_Al_ve_Sat?id=com.autoscout24&hl=tr",
+            "description": "2 milyondan fazla sıfır ve ikinci el araba, kamyonet ve motorsiklet",
+            "operatingSystem": "ANDROID",
+            "applicationCategory": "AUTO_AND_VEHICLES",
+            "image": "https://play-lh.googleusercontent.com/Qa90bmVrFgO950-lwOLTAkHllRsO_rBD9vRwN5q1pd_i2wQePAnTs17P2jExz40W_uQ",
+            "contentRating": "PEGI 3",
+            "author": {
+                "@type": "Person",
+                "name": "AutoScout24 GmbH",
+                "url": "http://www.autoscout24.de"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.739999771118164",
+                "ratingCount": "584020"
+            },
+            "offers": [
+                {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "TRY",
+                    "availability": "https://schema.org/InStock"
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://www.araba.com/",
+        "PageTitle": "Araba.com | Araç Alım Satımı İçin İhtiyacınız Olan Her Şey",
+        "MetaDescription": "Araç alım satım hizmeti, teknik özellik bilgileri, araba incelemeleri ve arabalar hakkında tüm merak ettikleriniz... Söz konusu arabalarsa yanıt bizde!",
+        "H1": "",
+        "H2": "Popüler İçeriklerimiz",
+        "H3": "Passat",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "Araç alım satım hizmeti, teknik özellik bilgileri, araba incelemeleri ve arabalar hakkında tüm merak ettikleriniz... Söz konusu arabalarsa yanıt bizde!\"",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "Araba.com Logo",
+            "Araba.com Logo",
+            "yeniyıl-kampanya",
+            "yeniyıl-kampanya",
+            "carvak-app",
+            "carvak-app",
+            "hemen-araba-al",
+            "hemen-araba-al",
+            "hemen-araba-sat",
+            "hemen-araba-sat",
+            "carvak-bakim",
+            "carvak-bakim",
+            "carvak-estetik",
+            "carvak-estetik",
+            "Ne Kadar Taşıt Kredisi Kullanabilirim?",
+            "Taşıt Kredisi Aylık Ödeme Hesaplama",
+            "Bakım Tutarı Hesaplama Rehberi",
+            "Arabamın Neyi Var?",
+            "Güncel Yakıt & LPG Fiyatları",
+            "Trafik Cezaları Rehberi",
+            "Dünyanın En İyi Araba Markaları",
+            "En Az Yakan SUV Araçlar",
+            "En Küçük Araba Modelleri ve Öne Çıkan Özellikleri",
+            "Sürücüsüz Araçlar Ne Kadar Güvenli?",
+            "İkinci El Araçlarda Değer Kaybını Azaltmanın Yolları",
+            "Araç Karbon Emisyonunu Azaltmanın Yöntemleri",
+            "Araç Bakımında Yapılan En Yaygın Hatalar",
+            "Volkswagen Passat",
+            "Renault Clio",
+            "Ford Focus",
+            "Renault Mégane",
+            "Toyota Corolla",
+            "Volkswagen Golf",
+            "Volkswagen",
+            "Ford",
+            "Renault",
+            "Bmw",
+            "Toyota",
+            "Skoda",
+            "Volkswagen_Passat Variant",
+            "Carvak.com",
+            "Araba.com"
+        ],
+        "JSONLD": {
+            "url": "https://www.araba.com",
+            "logo": "https://res.cloudinary.com/tasit-com/image/upload/v1682116726/arabacom-homepage-2022-08/phoenix-araba-com/logos/Group_1.webp",
+            "name": "Araba.com",
+            "@type": "Corporation",
+            "sameAs": [
+                "https://www.facebook.com/ArabaCom/",
+                "https://twitter.com/Araba_Com",
+                "https://www.instagram.com/arabacom/",
+                "https://www.linkedin.com/company/araba-com/about/"
+            ],
+            "@context": "https://schema.org"
+        }
+    },
+    {
+        "URL": "https://www.toyota.com.tr/ikinci-el",
+        "PageTitle": "Toyota Güvencesinde 2. El Araçlar | Toyota Türkiye",
+        "MetaDescription": "İkinci el araçlar için en iyi seçenekler Toyota'da! Tüm ikinci el araba marka ve modelleri Toyota güvencesiyle sizlerle! Şimdi keşfedin, seçenekleri yakalayın!",
+        "H1": "\n                Xchange by Toyota - 2. El Araçlar\n            ",
+        "H2": "2. El Araçlar",
+        "H3": "Toyota Corolla 1.8 Hybrid Flame X-Pack e-CVT 140HP",
+        "OpenGraphTitle": "Toyota Güvencesinde 2. El Araçlar | Toyota Türkiye",
+        "OpenGraphDescription": "İkinci el araçlar için en iyi seçenekler Toyota'da! Tüm ikinci el araba marka ve modelleri Toyota güvencesiyle sizlerle! Şimdi keşfedin, seçenekleri yakalayın!",
+        "OpenGraphImage": "https://scene7.toyota.eu/is/image/toyotaeurope/2.El_Web_Header-1",
+        "ImageAltTexts": [
+            "blindlook görme engelsiz marka",
+            "Yaris",
+            "Yaris Cross",
+            "Corolla Hatchback",
+            "Corolla",
+            "Corolla Cross",
+            "Toyota C-HR",
+            "RAV4",
+            "Land Cruiser Prado",
+            "HILUX",
+            "Proace City",
+            "Proace City Cargo",
+            "Yaris",
+            "Yaris Cross",
+            "Corolla Hatchback",
+            "Corolla",
+            "Corolla Cross",
+            "Toyota C-HR",
+            "RAV4",
+            "Land Cruiser Prado",
+            "HILUX",
+            "Proace City",
+            "Proace City Cargo",
+            "Yaris",
+            "Yaris Cross",
+            "Corolla Hatchback",
+            "Corolla",
+            "Corolla Cross",
+            "Toyota C-HR",
+            "RAV4",
+            "Yaris Cross",
+            "Corolla Cross",
+            "Toyota C-HR",
+            "RAV4",
+            "Land Cruiser Prado",
+            "Corolla",
+            "Yaris",
+            "Corolla Hatchback",
+            "2.El_Web_Header-1",
+            "2024 Toyota Corolla Style - Toyota Plaza Kuzen - Binek Araçlar 4 2024 Toyota Corolla 1.8 Hybrid Flame X-Pack e-CVT 140HP",
+            "2015 Toyota Auris Style - Toyota Plaza Aktoy - Binek Araçlar 5 2015 Toyota Auris 1.6 Active 132HP",
+            "2023 Toyota Corolla  - Toyota Plaza Bakırcılar Antalya - Binek Araçlar 4 ",
+            "2024 Toyota Corolla Style - Toyota Plaza Kuzen - Binek Araçlar 4 2024 Toyota Corolla 1.8 Hybrid Flame X-Pack e-CVT 140HP",
+            "2024 Toyota Proace City Verso Style - Toyota Plaza Kuzen - Binek Araçlar 5 2024 Toyota Proace City Cargo 1.5 D Dream 6M/T 100HP",
+            "2020 Toyota Corolla  - Toyota Plaza KOCAELİ KAYA - Binek Araçlar 4 ",
+            "2022 Toyota Corolla  - Toyota Plaza Sandıkçı - Binek Araçlar 4 ",
+            "2017 Toyota Corolla Style - Toyota Plaza ALJ ANKARA - Binek Araçlar 4 2017 Toyota Corolla 1.4 D-4D Advance M/M 90HP",
+            "2023 Toyota Corolla Cross  - Toyota Plaza KARDELEN - SUV 5 ",
+            "2021 Toyota Corolla  - Toyota Plaza Hızel - Binek Araçlar 4 ",
+            "2021 Toyota Corolla Style - Toyota Plaza Sandıkçı - Binek Araçlar 4 2021 Toyota Corolla 1.5 Flame X-Pack Multidrive S 123HP",
+            "2.El_Yonlendirme_Binek",
+            "2.El_Yonlendirme_Hybrid",
+            "2.El_Yonlendirme_4x4",
+            "2.El_Yonlendirme_Ticari",
+            "Toyota servis bekleme alanında, kahvesini yudumlarken aracının bakımını izleyen bir kadın",
+            "Toyota servis bekleme alanında, kahvesini yudumlarken aracının bakımını izleyen bir kadın",
+            "Toyota Servis'inin önünde aracına yürüyen bir adam",
+            "Toyota Servis'inin önünde aracına yürüyen bir adam",
+            "2.El_Digital_Bayi",
+            "2.El_Digital_Bayi",
+            "arka planda çeşitli Toyota marka araçlar olan bir Toyota servis noktasında müşteriye anahtarını veriyor",
+            "arka planda çeşitli Toyota marka araçlar olan bir Toyota servis noktasında müşteriye anahtarını veriyor",
+            "gülümseyerek telefonla konuşan mavi gömlekli bir kişi",
+            "ETBIS Logo",
+            "Şirket Logosu",
+            "Powered by Onetrust"
+        ],
+        "JSONLD": {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Toyota Türkiye",
+            "url": "https://www.toyota.com.tr",
+            "logo": "https://www.toyota.com.tr/content/dam/logos/large-logo-toyota.jpeg"
+        }
+    },
+    {
+        "URL": "https://www.arabam.com/ikinci-el/otomobil",
+        "PageTitle": " Satılık 2. El Araba Fiyatları ve Modelleri - arabam.com",
+        "MetaDescription": "Satılık 2. El Araba ilanları, aradığınız tüm marka ve modeller arabam.com'da sizi bekliyor.",
+        "H1": " Satılık 2. El Araba Fiyatları ve Modelleri",
+        "H2": "Otomobil İlanları",
+        "H3": "\nHonda Civic 1.6 i-VTEC Elegance\n",
+        "OpenGraphTitle": " Satılık 2. El Araba Fiyatları ve Modelleri - arabam.com",
+        "OpenGraphDescription": "Satılık 2. El Araba ilanları, aradığınız tüm marka ve modeller arabam.com'da sizi bekliyor.",
+        "OpenGraphImage": "https://arbimg1.mncdn.com/assets/dist/img/arabam-faceshare.png?v=20250314141502",
+        "ImageAltTexts": [
+            "Arabam Tedarik",
+            "arabam.com",
+            "arabamcom - trink sat",
+            "ATA HYUNDAI PLAZADAN 2011 HONDA CIVIC 1.6 ELEGANCE OV",
+            "ŞEN KARDEŞLER OTOMOTİV 96 MODEL 19 HİDROLİK DİREKSİYON",
+            "HATASIZ BOYASIZ HASAR KAYITSIZ ASTRA SPORT",
+            "BİNOTO dan Volkswagen Passat 1.6 TDi BlueMotion Impression 2017 Model Çankırı",
+            "YETKİLİ SERVİS BAKIMLI 2021 ÇIKIŞ HYBRID DREAM KABLOSUZ ŞARJLI",
+            "CADDE16'DAN 2023 MDL 1.3TCe ELEKTRONİK ELFRENİ 30000KM OTOMATİK",
+            "FİAT EGEA 1.3 MULTİJET URBAN KREDİ KARTINA 12 TAKSİT İMKANI",
+            "2021 FIAT EGEA 1.3 MULTİJET DİZEL EASY HATASIZ -- BOYASIZ -- TRAMERSİZ",
+            "1.99  KREDİ KARTINA TAKSİT İMKANI İLE 2008 HYUNDAİ GETZ 1.4 BENZİN LPG OTOMATİK",
+            "Full paket makam aracı",
+            "K.KARTINA12TAKSİTLE/2019/DEĞİŞENSİZ-TRAMERSİZ/SADECE 29.000 KM.",
+            "Hatasız boyasız",
+            "2022-HATASIZ-A200 AMG PLUS +METALİK BEYAZ+Y.SERVİS BKM+GARANTİLİ",
+            "TURAN OTOMOTİV'DEN OTOMATİK HATASIZ AYARINDA DİZEL KARTA TAKSİT",
+            "Galeriden Renault Clio 1.2 Joy 2013 Model Ankara",
+            "316i M Sport RECARO 19 M JANT HIZ SABİTLEME",
+            "2020 RENAULT MEGANE TESLA EKRANLI 31.000 KM'DE SERVİS BAKIMLI",
+            "Toyota Corolla 1.4 D-4D Advance 2015 Model İzmir",
+            " Fiat Egea 1.3 Multijet Urban Plus 2020 Model İzmir",
+            " Toyota Corolla 1.8 Hybrid Dream 2021 Model İzmir",
+            "{{advertFullTitle}}",
+            "ilab logo",
+            "Şirket Logosu",
+            "Powered by Onetrust"
+        ],
+        "JSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-honda-civic-1-6-i-vtec-elegance/ata-hyundai-plazadan-2011-honda-civic-1-6-elegance-ov/28428041",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "158780",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Honda",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Honda"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2011",
+                "productionDate": "2011",
+                "name": "ATA HYUNDAI PLAZADAN 2011 HONDA CIVIC 1.6 ELEGANCE OV",
+                "description": "ATA HYUNDAI PLAZADAN 2011 HONDA CIVIC 1.6 ELEGANCE OV",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28428041/af00f52b-c2ef-4f82-b79c-74e702ce1b28_image_for_silan_28428041_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 758750,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-honda-civic-1-6-i-vtec-elegance/ata-hyundai-plazadan-2011-honda-civic-1-6-elegance-ov/28428041"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-r-19-1-4-europa-rl/sen-kardesler-otomotiv-96-model-19-hidrolik-direksiyon/28073405",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "295000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "LPG & Benzin"
+                },
+                "vehicleModelDate": "1996",
+                "productionDate": "1996",
+                "name": "ŞEN KARDEŞLER OTOMOTİV 96 MODEL 19 HİDROLİK DİREKSİYON",
+                "description": "ŞEN KARDEŞLER OTOMOTİV 96 MODEL 19 HİDROLİK DİREKSİYON",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/22/28073405/d20b9cd6-9505-470a-add7-deb0fd3819ee_image_for_silan_28073405_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 210000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-r-19-1-4-europa-rl/sen-kardesler-otomotiv-96-model-19-hidrolik-direksiyon/28073405"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-opel-astra-1-3-cdti-sport/hatasiz-boyasiz-hasar-kayitsiz-astra-sport/28424885",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "234000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Opel",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Opel"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2012",
+                "productionDate": "2012",
+                "name": "HATASIZ BOYASIZ HASAR KAYITSIZ ASTRA SPORT",
+                "description": "HATASIZ BOYASIZ HASAR KAYITSIZ ASTRA SPORT",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28424885/4f450257-ab31-49be-9eda-5cbd79e2d304_image_for_silan_28424885_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 625000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-opel-astra-1-3-cdti-sport/hatasiz-boyasiz-hasar-kayitsiz-astra-sport/28424885"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-impression/binoto-dan-volkswagen-passat-1-6-tdi-bluemotion-impression-2017-model-cankiri/28422949",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "200946",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Volkswagen",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Volkswagen"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2017",
+                "productionDate": "2017",
+                "name": "BİNOTO dan Volkswagen Passat 1.6 TDi BlueMotion Impression 2017 Model &#199;ankırı",
+                "description": "BİNOTO dan Volkswagen Passat 1.6 TDi BlueMotion Impression 2017 Model &#199;ankırı",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28422949/8d8ccd62-26a0-49c9-8c14-ea9648bcedc6_image_for_silan_28422949_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Yarı Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1164000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-impression/binoto-dan-volkswagen-passat-1-6-tdi-bluemotion-impression-2017-model-cankiri/28422949"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-toyota-corolla-1-8-hybrid-dream/yetkili-servis-bakimli-2021-cikis-hybrid-dream-kablosuz-sarjli/28144519",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "122000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Toyota",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Toyota"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "LPG & Benzin"
+                },
+                "vehicleModelDate": "2020",
+                "productionDate": "2020",
+                "name": "YETKİLİ SERVİS BAKIMLI 2021 &#199;IKIŞ HYBRID DREAM KABLOSUZ ŞARJLI",
+                "description": "YETKİLİ SERVİS BAKIMLI 2021 &#199;IKIŞ HYBRID DREAM KABLOSUZ ŞARJLI",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/28/28144519/d06d38ce-2341-40fa-b2cf-068836a09f79_image_for_silan_28144519_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1039950,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-toyota-corolla-1-8-hybrid-dream/yetkili-servis-bakimli-2021-cikis-hybrid-dream-kablosuz-sarjli/28144519"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-megane-1-3-tce-joy/cadde16-dan-2023-mdl-1-3tce-elektronik-elfreni-30000km-otomatik/28157945",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "37000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2023",
+                "productionDate": "2023",
+                "name": "CADDE16&#39;DAN 2023 MDL 1.3TCe ELEKTRONİK ELFRENİ 30000KM OTOMATİK",
+                "description": "CADDE16&#39;DAN 2023 MDL 1.3TCe ELEKTRONİK ELFRENİ 30000KM OTOMATİK",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/01/28157945/ab66f9a2-1362-4a30-a136-719151328ea1_image_for_silan_28157945_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1009000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-megane-1-3-tce-joy/cadde16-dan-2023-mdl-1-3tce-elektronik-elfreni-30000km-otomatik/28157945"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban/fiat-egea-1-3-multijet-urban-kredi-kartina-12-taksit-imkani/27674155",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "234000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Fiat",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Fiat"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2018",
+                "productionDate": "2018",
+                "name": "FİAT EGEA 1.3 MULTİJET URBAN KREDİ KARTINA 12 TAKSİT İMKANI",
+                "description": "FİAT EGEA 1.3 MULTİJET URBAN KREDİ KARTINA 12 TAKSİT İMKANI",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/01/14/27674155/f431bd3d-6bcb-4d84-bacb-d862fd31fb24_image_for_silan_27674155_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 649999,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban/fiat-egea-1-3-multijet-urban-kredi-kartina-12-taksit-imkani/27674155"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-easy/2021-fiat-egea-1-3-multijet-dizel-easy-hatasiz-boyasiz-tramersiz/28339280",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "87500",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Fiat",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Fiat"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2021",
+                "productionDate": "2021",
+                "name": "2021 FIAT EGEA 1.3 MULTİJET DİZEL EASY HATASIZ -- BOYASIZ -- TRAMERSİZ",
+                "description": "2021 FIAT EGEA 1.3 MULTİJET DİZEL EASY HATASIZ -- BOYASIZ -- TRAMERSİZ",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/13/28339280/b56e3338-24d7-4089-b287-3883d5ff18be_image_for_silan_28339280_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 765000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-easy/2021-fiat-egea-1-3-multijet-dizel-easy-hatasiz-boyasiz-tramersiz/28339280"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-hyundai-getz-1-4-dohc-hy-klm/1-99-kredi-kartina-taksit-imkani-ile-2008-hyundai-getz-1-4-benzin-lpg-otomatik/28419255",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "240000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Hyundai",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Hyundai"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "LPG & Benzin"
+                },
+                "vehicleModelDate": "2008",
+                "productionDate": "2008",
+                "name": "1.99  KREDİ KARTINA TAKSİT İMKANI İLE 2008 HYUNDAİ GETZ 1.4 BENZİN LPG OTOMATİK",
+                "description": "1.99  KREDİ KARTINA TAKSİT İMKANI İLE 2008 HYUNDAİ GETZ 1.4 BENZİN LPG OTOMATİK",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/17/28419255/d2d2b124-11da-42c5-9b74-6ff3b44722c5_image_for_silan_28419255_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 449950,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-hyundai-getz-1-4-dohc-hy-klm/1-99-kredi-kartina-taksit-imkani-ile-2008-hyundai-getz-1-4-benzin-lpg-otomatik/28419255"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-exclusive/full-paket-makam-araci/27982641",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "297000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Volkswagen",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Volkswagen"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2013",
+                "productionDate": "2013",
+                "name": "Full paket makam aracı",
+                "description": "Full paket makam aracı",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/14/27982641/556727ec-afb6-48c7-abdf-149e95aa7e11_image_for_silan_27982641_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 775000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-volkswagen-passat-1-6-tdi-bluemotion-exclusive/full-paket-makam-araci/27982641"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-clio-0-9-tce-touch/k-kartina12taksitle-2019-degisensiz-tramersiz-sadece-29-000-km/28172551",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "29000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2019",
+                "productionDate": "2019",
+                "name": "K.KARTINA12TAKSİTLE/2019/DEĞİŞENSİZ-TRAMERSİZ/SADECE 29.000 KM.",
+                "description": "K.KARTINA12TAKSİTLE/2019/DEĞİŞENSİZ-TRAMERSİZ/SADECE 29.000 KM.",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/02/28172551/e2ba0fc5-6d35-4d7d-9d50-4644f1b30df7_image_for_silan_28172551_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 725000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-clio-0-9-tce-touch/k-kartina12taksitle-2019-degisensiz-tramersiz-sadece-29-000-km/28172551"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban/hatasiz-boyasiz/28171246",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "243800",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Fiat",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Fiat"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2016",
+                "productionDate": "2016",
+                "name": "Hatasız boyasız",
+                "description": "Hatasız boyasız",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/02/28171246/2fe9e606-0248-4db1-a90c-d68d083ccf26_image_for_silan_28171246_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 565000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban/hatasiz-boyasiz/28171246"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-mercedes-benz-a-200-amg/2022-hatasiz-a200-amg-plus-metalik-beyaz-y-servis-bkm-garantili/28169183",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "36900",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Mercedes - Benz",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Mercedes - Benz"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2022",
+                "productionDate": "2022",
+                "name": "2022-HATASIZ-A200 AMG PLUS +METALİK BEYAZ+Y.SERVİS BKM+GARANTİLİ",
+                "description": "2022-HATASIZ-A200 AMG PLUS +METALİK BEYAZ+Y.SERVİS BKM+GARANTİLİ",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/02/28169183/122ea6c5-3fc7-4e67-86c4-75f9ea126b0b_image_for_silan_28169183_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 2215000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-mercedes-benz-a-200-amg/2022-hatasiz-a200-amg-plus-metalik-beyaz-y-servis-bkm-garantili/28169183"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-fluence-1-5-dci-joy/turan-otomotiv-den-otomatik-hatasiz-ayarinda-dizel-karta-taksit/27973598",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "236000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2013",
+                "productionDate": "2013",
+                "name": "TURAN OTOMOTİV&#39;DEN OTOMATİK HATASIZ AYARINDA DİZEL KARTA TAKSİT",
+                "description": "TURAN OTOMOTİV&#39;DEN OTOMATİK HATASIZ AYARINDA DİZEL KARTA TAKSİT",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/02/13/27973598/d1a9f4e9-62bb-4745-b6d5-4ce825c9189c_image_for_silan_27973598_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 592750,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-fluence-1-5-dci-joy/turan-otomotiv-den-otomatik-hatasiz-ayarinda-dizel-karta-taksit/27973598"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-clio-1-2-joy/galeriden-renault-clio-1-2-joy-2013-model-ankara/27617332",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "149000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2013",
+                "productionDate": "2013",
+                "name": "Galeriden Renault Clio 1.2 Joy 2013 Model Ankara",
+                "description": "Galeriden Renault Clio 1.2 Joy 2013 Model Ankara",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/01/09/27617332/366de980-cd9d-4dbb-9c1f-be6dbb22c3e3_image_for_silan_27617332_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 509750,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-clio-1-2-joy/galeriden-renault-clio-1-2-joy-2013-model-ankara/27617332"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-bmw-3-serisi-316i-m-sport/316i-m-sport-recaro-19-m-jant-hiz-sabitleme/28409014",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "161000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "BMW",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BMW"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Benzin"
+                },
+                "vehicleModelDate": "2013",
+                "productionDate": "2013",
+                "name": "316i M Sport RECARO 19 M JANT HIZ SABİTLEME",
+                "description": "316i M Sport RECARO 19 M JANT HIZ SABİTLEME",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/16/28409014/95f3b46e-4d1b-4291-a88a-1a42de65dd3e_image_for_silan_28409014_120x90.jpg",
+                "driveWheelConfiguration": "Arkadan İtiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1115000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-bmw-3-serisi-316i-m-sport/316i-m-sport-recaro-19-m-jant-hiz-sabitleme/28409014"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-renault-megane-1-5-blue-dci-touch/2020-renault-megane-tesla-ekranli-31-000-km-de-servis-bakimli/28408302",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "31000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Renault",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Renault"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2020",
+                "productionDate": "2020",
+                "name": "2020 RENAULT MEGANE TESLA EKRANLI 31.000 KM&#39;DE SERVİS BAKIMLI",
+                "description": "2020 RENAULT MEGANE TESLA EKRANLI 31.000 KM&#39;DE SERVİS BAKIMLI",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/16/28408302/58db7572-4fc4-401d-8133-0afe4c0aaa42_image_for_silan_28408302_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1210000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-renault-megane-1-5-blue-dci-touch/2020-renault-megane-tesla-ekranli-31-000-km-de-servis-bakimli/28408302"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-toyota-corolla-1-4-d-4d-advance/toyota-corolla-1-4-d-4d-advance-2015-model-izmir/28407864",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "72000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Toyota",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Toyota"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2015",
+                "productionDate": "2015",
+                "name": "Toyota Corolla 1.4 D-4D Advance 2015 Model İzmir",
+                "description": "Toyota Corolla 1.4 D-4D Advance 2015 Model İzmir",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/16/28407864/9c0100b4-406f-4a23-a0b9-1b87f9aa8e69_image_for_silan_28407864_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 890000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-toyota-corolla-1-4-d-4d-advance/toyota-corolla-1-4-d-4d-advance-2015-model-izmir/28407864"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban-plus/fiat-egea-1-3-multijet-urban-plus-2020-model-izmir/28407535",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "50000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Fiat",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Fiat"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Dizel"
+                },
+                "vehicleModelDate": "2020",
+                "productionDate": "2020",
+                "name": " Fiat Egea 1.3 Multijet Urban Plus 2020 Model İzmir",
+                "description": " Fiat Egea 1.3 Multijet Urban Plus 2020 Model İzmir",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/16/28407535/dde181a8-f533-4976-b1a8-dcd8294ff15e_image_for_silan_28407535_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Düz",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 810000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-fiat-egea-1-3-multijet-urban-plus/fiat-egea-1-3-multijet-urban-plus-2020-model-izmir/28407535"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Vehicle",
+                "itemCondition": "https://schema.org/UsedCondition",
+                "url": "/ilan/galeriden-satilik-toyota-corolla-1-8-hybrid-dream/toyota-corolla-1-8-hybrid-dream-2021-model-izmir/28407319",
+                "mileageFromOdometer": {
+                    "@type": "QuantitativeValue",
+                    "value": "112000",
+                    "unitCode": "KMT"
+                },
+                "manufacturer": "Toyota",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "Toyota"
+                },
+                "vehicleEngine": {
+                    "@type": "EngineSpecification",
+                    "fuelType": "Hibrit"
+                },
+                "vehicleModelDate": "2021",
+                "productionDate": "2021",
+                "name": " Toyota Corolla 1.8 Hybrid Dream 2021 Model İzmir",
+                "description": " Toyota Corolla 1.8 Hybrid Dream 2021 Model İzmir",
+                "image": "https://arbstorage.mncdn.com/ilanfotograflari/2025/03/16/28407319/19d5d807-c4d5-4a7b-8311-76a8c442e65b_image_for_silan_28407319_120x90.jpg",
+                "driveWheelConfiguration": "Önden Çekiş",
+                "vehicleTransmission": "Otomatik",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "price": 1090000,
+                    "priceCurrency": "TRY",
+                    "url": "/ilan/galeriden-satilik-toyota-corolla-1-8-hybrid-dream/toyota-corolla-1-8-hybrid-dream-2021-model-izmir/28407319"
+                }
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@id": "https://www.arabam.com/ikinci-el/otomobil",
+                            "name": "Otomobil"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1193 @@
+[
+    {
+        "URL": "https://cilingirfiyatlari.com/",
+        "PageTitle": "Çilingir Fiyatları | 50 TL'den Başlayan Ücretler (2021)",
+        "MetaDescription": "Çilingir Fiyatları Rehberi ile Size En Yakın Çilingirlerin Onaylanmış 2021 Çilingir Ücretlerini İnceleyin. Kapıda Süprizle Karşılaşmayın.",
+        "H1": "\n\t\t\t\t\t\t\t\t\t\t\tÇilingir Fiyatları \n\t\t\t\t\t\t\t\t\t\t",
+        "H2": "2021 Çilingir Fiyatları ",
+        "H3": "Ücret Tarifelerimiz",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "Çilingir Fiyatları",
+            "Çilingir Fiyatları",
+            "Çilingir Fiyatları",
+            "Çilingir Fiyatları",
+            "Çilingir Fiyatları",
+            "Oto Çilingir Fiyatları",
+            "Kasa Çilingir Fiyatları",
+            "Çelik Kapı Tamiri Fiyatları",
+            "Villa Kapısı Tamiri Fiyatları",
+            "Kilit Değiştirme Fiyatları",
+            "Kale Kilit Değiştirme Fiyatları",
+            "Multlock Kilit Değiştirme Fiyatları",
+            "Kaba Kilit Değiştirme Fiyatları",
+            "Bina Kapısı Tamiri Fiyatları",
+            "Apartman Kapısı Tamiri Fiyatları",
+            "Dış Kapı Tamiri Fiyatları",
+            "çilingiri ara",
+            "whatsapp mesajı gönder"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html",
+        "PageTitle": "Tarsus En Yakın Çilingir - Çilingir Servisitarsus",
+        "MetaDescription": "Tarsus En Yakın Çilingir 15 Dk'da Yanınızda. Hafta Sonu Açık çilingir Veya Gece Nöbetçi çilingir Mi Arıyorsunuz ? 7/24 Kesintisiz Hizmet Için Bizi Arayın.",
+        "H1": "Tarsus En Yakın Çilingir",
+        "H2": "Tarsus En Yakın Çilingir",
+        "H3": "Çilingir Servisi",
+        "OpenGraphTitle": "Tarsus En Yakın Çilingir - Çilingir Servisitarsus",
+        "OpenGraphDescription": "Tarsus en Yakın Çilingir 15 dk'da yanınızda. Hafta sonu açık çilingir veya gece nöbetçi çilingir mi arıyorsunuz ? 7/24 kesintisiz hizmet için bizi arayın.",
+        "OpenGraphImage": "https://cilingirservisi.com.tr/wp-content/uploads/2023/10/slide-turkiye.webp",
+        "ImageAltTexts": [
+            "Çilingir Servisi",
+            "pendik çilingir",
+            "çilingiri ara",
+            "whatsapp mesajı gönder"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "Article",
+                    "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html#article",
+                    "isPartOf": {
+                        "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html"
+                    },
+                    "author": {
+                        "name": "admin",
+                        "@id": "https://cilingirservisi.com.tr/#/schema/person/c0bedfed210ee04cb6d282cd4d1d297c"
+                    },
+                    "headline": "Tarsus En Yakın Çilingir",
+                    "datePublished": "2023-09-21T18:23:30+00:00",
+                    "mainEntityOfPage": {
+                        "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html"
+                    },
+                    "wordCount": 902,
+                    "commentCount": 0,
+                    "publisher": {
+                        "@id": "https://cilingirservisi.com.tr/#organization"
+                    },
+                    "image": {
+                        "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html#primaryimage"
+                    },
+                    "thumbnailUrl": "https://cilingirservisi.com.tr/wp-content/uploads/2023/10/slide-turkiye.webp",
+                    "articleSection": [
+                        "Mersin",
+                        "tarsus"
+                    ],
+                    "inLanguage": "tr",
+                    "potentialAction": [
+                        {
+                            "@type": "CommentAction",
+                            "name": "Comment",
+                            "target": [
+                                "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html#respond"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html",
+                    "url": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html",
+                    "name": "Tarsus En Yakın Çilingir - Çilingir Servisitarsus",
+                    "isPartOf": {
+                        "@id": "https://cilingirservisi.com.tr/#website"
+                    },
+                    "primaryImageOfPage": {
+                        "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html#primaryimage"
+                    },
+                    "image": {
+                        "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html#primaryimage"
+                    },
+                    "thumbnailUrl": "https://cilingirservisi.com.tr/wp-content/uploads/2023/10/slide-turkiye.webp",
+                    "datePublished": "2023-09-21T18:23:30+00:00",
+                    "description": "Tarsus en Yakın Çilingir 15 dk'da yanınızda. Hafta sonu açık çilingir veya gece nöbetçi çilingir mi arıyorsunuz ? 7/24 kesintisiz hizmet için bizi arayın.",
+                    "breadcrumb": {
+                        "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html#breadcrumb"
+                    },
+                    "inLanguage": "tr",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "inLanguage": "tr",
+                    "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html#primaryimage",
+                    "url": "https://cilingirservisi.com.tr/wp-content/uploads/2023/10/slide-turkiye.webp",
+                    "contentUrl": "https://cilingirservisi.com.tr/wp-content/uploads/2023/10/slide-turkiye.webp",
+                    "width": 1888,
+                    "height": 822
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://cilingirservisi.com.tr/mersin/tarsus/en-yakin-cilingir.html#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Anasayfa",
+                            "item": "https://cilingirservisi.com.tr/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Tarsus En Yakın Çilingir"
+                        }
+                    ]
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https://cilingirservisi.com.tr/#website",
+                    "url": "https://cilingirservisi.com.tr/",
+                    "name": "Çilingir Servisi",
+                    "description": "Çilingir Servisi",
+                    "publisher": {
+                        "@id": "https://cilingirservisi.com.tr/#organization"
+                    },
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://cilingirservisi.com.tr/?s={search_term_string}"
+                            },
+                            "query-input": {
+                                "@type": "PropertyValueSpecification",
+                                "valueRequired": true,
+                                "valueName": "search_term_string"
+                            }
+                        }
+                    ],
+                    "inLanguage": "tr"
+                },
+                {
+                    "@type": "Organization",
+                    "@id": "https://cilingirservisi.com.tr/#organization",
+                    "name": "Çilingir Servisi",
+                    "url": "https://cilingirservisi.com.tr/",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "inLanguage": "tr",
+                        "@id": "https://cilingirservisi.com.tr/#/schema/logo/image/",
+                        "url": "https://cilingirservisi.com.tr/wp-content/uploads/2023/10/cilingirservisi.com_.tr-logo.png",
+                        "contentUrl": "https://cilingirservisi.com.tr/wp-content/uploads/2023/10/cilingirservisi.com_.tr-logo.png",
+                        "width": 437,
+                        "height": 176,
+                        "caption": "Çilingir Servisi"
+                    },
+                    "image": {
+                        "@id": "https://cilingirservisi.com.tr/#/schema/logo/image/"
+                    }
+                },
+                {
+                    "@type": "Person",
+                    "@id": "https://cilingirservisi.com.tr/#/schema/person/c0bedfed210ee04cb6d282cd4d1d297c",
+                    "name": "admin",
+                    "image": {
+                        "@type": "ImageObject",
+                        "inLanguage": "tr",
+                        "@id": "https://cilingirservisi.com.tr/#/schema/person/image/",
+                        "url": "https://cilingirservisi.com.tr/wp-content/litespeed/avatar/faa15232595e432c859a49616be72edf.jpg?ver=1746580810",
+                        "contentUrl": "https://cilingirservisi.com.tr/wp-content/litespeed/avatar/faa15232595e432c859a49616be72edf.jpg?ver=1746580810",
+                        "caption": "admin"
+                    },
+                    "sameAs": [
+                        "https://demo.cilingirservisi.com.tr"
+                    ],
+                    "url": "https://cilingirservisi.com.tr/author/admin"
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://www.tarsusacilcilingir.com.tr/",
+        "PageTitle": "Tarsus Acil Çilingir – Tarsus Anahtarcı 7 / 24 Arayın",
+        "MetaDescription": "",
+        "H1": "Hızlı Servis 1. Sınıf Malzeme",
+        "H2": "",
+        "H3": "Araç Anahtarı Kopyalama",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "",
+        "ImageAltTexts": [
+            "tarsus acil çilingir",
+            "tarsus acil çilingir",
+            "image",
+            "image",
+            "image",
+            "image",
+            "image",
+            "image",
+            "image",
+            "image"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.mersincilingiranahtarci.com/mersin-yenisehir-cilingir-anahtarci",
+        "PageTitle": "Yenişehir Çilingir Anahtarcı | Kapı Açma 100 TL | Mersin",
+        "MetaDescription": "Yenişehir Çilingir Anahtarcı Mersin in her yerine 15 dakikada kapınızdayız 7/24 acil çilingir, en yakın çilingir, araba oto anahtarcı hizmeti.",
+        "H1": "MERSİN YENİŞEHİR ÇİLİNGİR ANAHTARCI",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "Yenişehir Çilingir Anahtarcı | Kapı Açma 100 TL | Mersin",
+        "OpenGraphDescription": "Yenişehir Çilingir Anahtarcı Mersin in her yerine 15 dakikada kapınızdayız 7/24 acil çilingir, en yakın çilingir, araba oto anahtarcı hizmeti.",
+        "OpenGraphImage": "https://static.wixstatic.com/media/11062b_cc23472804734155a3652a4825d8d5da%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/11062b_cc23472804734155a3652a4825d8d5da%7Emv2.jpg",
+        "ImageAltTexts": [
+            "mersin çilingir anahtarcı",
+            "çilingir anahtarcı tasarım kutu",
+            "çilingir anahtarcı acil kapı açma",
+            "Instagram",
+            "Facebook",
+            "YouTube",
+            "TikTok"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.instagram.com/anahtarcinecmiusta/",
+        "PageTitle": "Tarsus Çilingir Necmi Necmi (@anahtarcinecmiusta) • Instagram fotoğrafları ve videoları",
+        "MetaDescription": "523 Takipçi, 460 Takip, 23 Gönderi - Instagram'da Tarsus Çilingir Necmi Necmi (@anahtarcinecmiusta): \"7 24 ÇİLİNGİR HİZMETİ NÖBETÇİ ÇİLİNGİR 5326345777\"",
+        "H1": "",
+        "H2": "anahtarcinecmiusta",
+        "H3": "",
+        "OpenGraphTitle": "Tarsus Çilingir Necmi Necmi (@anahtarcinecmiusta) • Instagram fotoğrafları ve videoları",
+        "OpenGraphDescription": "523 Takipçi, 460 Takip, 23 Gönderi - Tarsus Çilingir Necmi Necmi'in (@anahtarcinecmiusta) Instagram fotoğraflarını ve videolarını gör",
+        "OpenGraphImage": "https://scontent.cdninstagram.com/v/t51.2885-19/467196943_917470230347664_3461972240520375931_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&_nc_ohc=5W0SWOevS10Q7kNvwEIM4qS&_nc_oc=AdlZPwG7AyK1lRgRCVPkL59ek6clTnsIdBOZXaCCy3rkPJIBR58A6uS3deh6e08Wrdg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&oh=00_AfKK_gyg_Lctn2-XoDiX4jSHVf0aOqPl--g-G53Oz5ubOg&oe=68278837",
+        "ImageAltTexts": [
+            "anahtarcinecmiusta'in profil resmi",
+            "Photo by Tarsus Çilingir Necmi Necmi in Varda Köprüsü. 1 kişi ve Mostar Köprüsü görseli olabilir.",
+            "Photo by Tarsus Çilingir Necmi Necmi on December 21, 2024. Fotoğraf açıklaması yok..",
+            "Photo by Tarsus Çilingir Necmi Necmi on November 26, 2023. Fotoğraf açıklaması yok..",
+            "Photo by Tarsus Çilingir Necmi Necmi on May 02, 2022. Fotoğraf açıklaması yok..",
+            "Photo by Tarsus Çilingir Necmi Necmi on July 30, 2020. Fotoğraf açıklaması yok..",
+            "Photo by Tarsus Çilingir Necmi Necmi on June 01, 2020. Fotoğraf açıklaması yok..",
+            "Photo by Tarsus Çilingir Necmi Necmi on May 29, 2020. Fotoğraf açıklaması yok..",
+            "Photo by Tarsus Çilingir Necmi Necmi on May 29, 2020. Fotoğraf açıklaması yok..",
+            "Photo by Tarsus Çilingir Necmi Necmi on May 24, 2020. Fotoğraf açıklaması yok..",
+            "Tarsus Çilingir Anahtarcı Necmi usta 7/24 Nöbetçi Çilingiriniz Alo çilingir Anahtarcı Arayın hemen Gelelim. 05326345777-05074323658",
+            "Photo by Tarsus Çilingir Necmi Necmi on March 14, 2020. Fotoğraf açıklaması yok..",
+            "anahtarcinecmiusta'in profil resmi"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://armut.com/mersin-cilingir",
+        "PageTitle": "En İyi 40 Mersin Çilingir | Armut",
+        "MetaDescription": "Güvenilir Çilingir hizmeti al, zaman kazan, garantide ol. Mersin içinde binlerce Çilingir hazır. Ödüllü girişim. Yılda 2 milyon mutlu müşteri. Hizmet piş, ağzıma düş!",
+        "H1": "4 Mersin Çilingir Fiyat Teklifi Al, Karşılaştır.",
+        "H2": "Mersin Çilingir için Neden Armut Tercih Edilmeli?",
+        "H3": "Cadde Otomatik Kapı Ve Güvenlik Sis",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "https://cdn.armut.com/images/og_image_url.jpg",
+        "ImageAltTexts": [
+            "Click Fraud Protection",
+            "https://armut.com",
+            "Çilingir",
+            "Cadde Otomatik Kapı Ve Güvenlik Sis photo",
+            "Emin A. photo",
+            "Anahtarcı I. photo",
+            "Anahtarcı Bekir photo"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "1- Sitenizde Çilingir talebi oluşturmak için bir ücret ödeyecek miyim?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Tamamen ücretsiz! Çilingir için talep oluşturmak, teklif almak ve hizmet verenlerle iletişime geçmek tamamen ücretsizdir."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "2- Çilingir talebim için tekliflerim Ne Kadar Zamanda Gelecek?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Çilingir taleplerinin çoğu 30 ila 240 dakika içinde teklif alıyor. Bu süre içinde en uygun teklifleri getirmeyi hedefliyoruz. Çilingir talebin için gelen teklifleri Armut mobil uygulamaları üzerinden kolaylıkla takip edip değerlendirebilirsin. Teklifler ayrıca e-posta ve sms yoluyla da sana iletilecek. 'Fiyat Teklifi Geldi' bildirimini aldıktan sonra sisteme giriş yaparak teklifleri inceleyebilir ve senin için en uygun olanı seçebilirsin."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "3- Armut Garantisi Nedir?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Tüm hizmet verenlerimizin Çilingir için en iyi hizmeti verdiklerinden emin olmak istiyoruz. Gönül rahatlığıyla hizmet alman için, Armut üzerinden teklif seçtiğin işler 2.000 TL’ye kadar korumamız altında."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "4- Çilingir hizmet verenlerine yapılan yorumlar gerçek mi? Bu yorumları kontrol ediyor musunuz?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Hizmet verenlerimizin profil sayfalarında gördüğünüz yıldızlar ve yorumlar, sadece Armut üzerinden yapılan hizmetlerin sonucunda müşterilerin yazdığı yorumlardır. Bu işlerin gerçekten yapıldığını ve yorumların gerçek olduğunu kontrol ve garanti ediyoruz."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "5- Armut'ta Mersin Çilingir fiyatları ne kadar?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Armut'ta Mersin Çilingir fiyatları, talep detayına göre 450 TL ile 2.500 TL arasında değişmektedir."
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "URL": "https://www.youtube.com/watch?v=FGQYs6SKoFM",
+        "PageTitle": "Onur Can Özcan - Çilingir - YouTube",
+        "MetaDescription": "Söz/Müzik : Onur Can Özcan Video : Hamdi Dönmez / instagram: @webressamiİletişim:metinozcan7534@gmail.comGün batarken bu şehirdeSenden bir sürü belirir gökyü...",
+        "H1": "",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "Onur Can Özcan - Çilingir",
+        "OpenGraphDescription": "Söz/Müzik : Onur Can Özcan Video : Hamdi Dönmez / instagram: @webressamiİletişim:metinozcan7534@gmail.comGün batarken bu şehirdeSenden bir sürü belirir gökyü...",
+        "OpenGraphImage": "https://i.ytimg.com/vi/FGQYs6SKoFM/maxresdefault.jpg",
+        "ImageAltTexts": [],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.bulurum.com/dir/cilingir-ve-anahtarcilar/tarsus/",
+        "PageTitle": "Tarsus Çilingir ve Anahtar | Mersin Tarsus Çilingir ve Anahtarcılar | Bulurum.com",
+        "MetaDescription": "Tarsus Çilingir mi Arıyorsunuz? Tarsus Bölgesinde Size En Yakın 7/24 Çilingirler, Anahtarcılar Türkiye'nin En Büyük Firma Rehberi Bulurum.com'da!",
+        "H1": "Tarsus Çilingir ve Anahtarcılar",
+        "H2": "\n\nERAT ÇİLİNGİR\n (Erat Asiltürk)\n\n",
+        "H3": "",
+        "OpenGraphTitle": "Tarsus Çilingir ve Anahtar  aradım buldum. Sen de BULURUM.COM ile bul!",
+        "OpenGraphDescription": "Yerel İşletmeleri ve Kamu Hizmetlerini Harita Üzerinde Bulabileceğin Türkiye Firma Rehberi",
+        "OpenGraphImage": "https://www.bulurum.com/v26/Images/Mvc/Shared/SocialNetworks/180thumb-vrisko_tr.jpg",
+        "ImageAltTexts": [
+            "Çilingir Seçiminde Tavsiyeye mi İhtiyacınız Var?"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.bestasli.com.tr/kategori/cilingir-malzemeleri-ve-el-aletleri",
+        "PageTitle": "ÇİLİNGİR MALZEMELERİ",
+        "MetaDescription": "",
+        "H1": "",
+        "H2": "",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "",
+        "OpenGraphImage": "https://ideacdn.net/idea/on/11/myassets/categories/129/nav_image_6.png?revision=1724353881",
+        "ImageAltTexts": [
+            "KAMPANYALI ÜRÜNLER",
+            "ÇİLİNGİR MALZEMELERİ",
+            "KİLİTLER",
+            "ELEKTRONİK KİLİTLER",
+            "ANAHTARLAR",
+            "HIRDAVAT MALZEMELERİ",
+            "İMMOBİLİZER VE OTO KİLİT",
+            "ANAHTAR MAKİNELERİ",
+            "KASALAR",
+            "PROTER 7.2 MOTOR CERMAN AÇMA SETİ",
+            "YUMA BAREL UÇ",
+            "İTO BAREL YENİ UÇ",
+            "İTO BAREL OVAL UÇ",
+            "KALE CEC BAREL UÇ",
+            "MASTER PAS PİM SETİ",
+            "YÜKSEK GÜVENLİKLİ OTO AÇMA SET",
+            "MANUEL YÜKSEK GÜVENLİKLİ MAYMUNCUK PANTOĞRAF SENTİ",
+            "OTO KASTIRMA SABİT APARATI",
+            "FORD Z KANAL OTO AÇMA SETİ",
+            "DÜZ OTO SENTİL MANUEL OTO AÇMA APARATI",
+            "OPEL Z KANAL OTO AÇMA SETİ",
+            "OTO KASTIRMA APARATI - LEVYE",
+            "OTO İÇ KOL ÇEKTİRME TEL UZUN 2 MT",
+            "MERCEDES OTO AÇMA SETİ",
+            "OTO PANTOGRAF AÇMA APARATI 4 TRAK",
+            "WOLKSVAGEN OTO AÇMA SETİ",
+            "OTO PANT 2 Lİ SET YAYLI",
+            "OTO PANT 1 Lİ SET YAYLI",
+            "OTO KİLİT KASTIRMA  APARATI (CIMBIZ)",
+            "SENTİL OTO PANTOĞRAF AÇMA APARATI",
+            "BMW OTO AÇMA SETİ",
+            "ROZET ÇEKTİRME 17-18-20 MM SET",
+            "KARE SİHİRBAZ",
+            "TAVŞAN SİHİRBAZ",
+            "CŞM MAYMUNCUK UÇ APARATI",
+            "YEDEK TEL VE FOLYO PAKET",
+            "ÇEVİR AÇ PL ADET"
+        ],
+        "JSONLD": []
+    },
+    {
+        "URL": "https://www.sikayetvar.com/cilingir/kapi",
+        "PageTitle": " Kapı ve Çilingir Şikayetleri - Şikayetvar ",
+        "MetaDescription": "Kapı ve Çilingir hakkında şikayet yazmak, Kapı ve Çilingir ile ilgili sorunlar ve kullanıcı yorumları için tıklayın!",
+        "H1": "  çilingir, kapı  ",
+        "H2": "  Gündemdeki Şikayetler  ",
+        "H3": "",
+        "OpenGraphTitle": "",
+        "OpenGraphDescription": "Kapı ve Çilingir hakkında şikayet yazmak, Kapı ve Çilingir ile ilgili sorunlar ve kullanıcı yorumları için tıklayın!",
+        "OpenGraphImage": "https://cdn.sikayetvar.com/public/images/facebook-share-card-image.png",
+        "ImageAltTexts": [
+            "Şikayetvar",
+            "Şikayetvar",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "profile",
+            "profile",
+            "profile",
+            "Marka şikayetlerini takip etmektedir",
+            "profile",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "profile",
+            "profile",
+            "profile",
+            "Marka şikayetlerini takip etmektedir",
+            "profile",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "Konut Sigortasında Çilingir Hizmeti Poliçe Detaylarına Uymuyor",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "Marka şikayetlerini takip etmektedir",
+            "profile",
+            "Daf Kilit Ürünlerinin Çalışmama Sorunu!",
+            "Daf Kilit Ürünlerinin Çalışmama Sorunu!",
+            "Daf Kilit Ürünlerinin Çalışmama Sorunu!",
+            "Daf Kilit Ürünlerinin Çalışmama Sorunu!",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "profile",
+            "profile",
+            "Çilingir Hizmetinde Yanıltıcı Fiyatlandırma Ve Haksız Ücret Talebi",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "Fiba Sigorta'dan Ücret İadesi Bekleyişi",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "profile",
+            "Basın Sitesi Çilingir Müşteriye Saygısızlık Ve Fahiş Fiyat Alma",
+            "profile",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "Ray Sigorta Sigorta Poliçesi Kapsamında Ekstra Ücret Talebi",
+            "Ray Sigorta Sigorta Poliçesi Kapsamında Ekstra Ücret Talebi",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "profile",
+            "Marka şikayetlerini takip etmektedir",
+            "profile",
+            "Şikayetvar pro üyelik avantajlarını kullanmaktadır.",
+            "Şikayetvar"
+        ],
+        "JSONLD": {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "inLanguage": "tr-TR",
+            "isFamilyFriendly": true,
+            "url": "https://www.sikayetvar.com/cilingir/kapi",
+            "headline": "Kapı ve Çilingir Şikayetleri",
+            "description": "Kapı ve Çilingir hakkında şikayet yazmak, Kapı ve Çilingir ile ilgili sorunlar ve kullanıcı yorumları için tıklayın!",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "numberOfItems": 3,
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@id": "https://www.sikayetvar.com",
+                            "name": "Ana Sayfa"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@id": "https://www.sikayetvar.com/cilingir",
+                            "name": "çilingir"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "item": {
+                            "@id": "https://www.sikayetvar.com/kapi",
+                            "name": "kapı"
+                        }
+                    }
+                ]
+            },
+            "mainEntity": {
+                "@type": "ItemList",
+                "itemListOrder": "https://schema.org/ItemListUnordered",
+                "numberOfItems": "74",
+                "mainEntityOfPage": "https://www.sikayetvar.com/cilingir/kapi",
+                "itemListElement": [
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 1,
+                        "url": "https://www.sikayetvar.com/turkiye-katilim-sigorta/konut-sigortasinda-cilingir-hizmeti-police-detaylarina-uymuyor",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/turkiye-katilim-sigorta/konut-sigortasinda-cilingir-hizmeti-police-detaylarina-uymuyor",
+                        "headline": "Konut Sigortasında Çilingir Hizmeti Poliçe Detaylarına Uymuyor",
+                        "alternativeHeadline": "Konut Sigortasında Çilingir Hizmeti Poliçe Detaylarına Uymuyor - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/3230/32303047/konut-sigortasinda-cilingir-hizmeti-police-detaylarina-uymuyor-1.jpg",
+                        "datePublished": "2025-04-29",
+                        "dateModified": "2025-04-30",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Birol"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 2,
+                        "url": "https://www.sikayetvar.com/sompo/sompo-cilingir-hizmeti-beklerken-gecen-5-saat",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/sompo/sompo-cilingir-hizmeti-beklerken-gecen-5-saat",
+                        "headline": "Sompo Çilingir Hizmeti Beklerken Geçen 5 Saat",
+                        "alternativeHeadline": "Sompo Çilingir Hizmeti Beklerken Geçen 5 Saat - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2025-04-07",
+                        "dateModified": "2025-04-08",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Cengiz"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 3,
+                        "url": "https://www.sikayetvar.com/xenon-smart/akilli-kapi-kilidi-magduriyeti-xenon-firmasindan-ilgisizlik",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/xenon-smart/akilli-kapi-kilidi-magduriyeti-xenon-firmasindan-ilgisizlik",
+                        "headline": "Akıllı Kapı Kilidi Mağduriyeti: Xenon Firmasından İlgisizlik",
+                        "alternativeHeadline": "Akıllı Kapı Kilidi Mağduriyeti: Xenon Firmasından İlgisizlik - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/3205/32055206/1743595601327.vid-20250402-wa0002.mp4",
+                        "datePublished": "2025-04-02",
+                        "dateModified": "2025-04-05",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Deniz"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 4,
+                        "url": "https://www.sikayetvar.com/daf-kilit/daf-kilit-urunlerinin-calismama-sorunu",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/daf-kilit/daf-kilit-urunlerinin-calismama-sorunu",
+                        "headline": "Daf Kilit Ürünlerinin Çalışmama Sorunu!",
+                        "alternativeHeadline": "Daf Kilit Ürünlerinin Çalışmama Sorunu! - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/3152/31524087/daf-kilit-urunlerinin-calismama-sorunu-1.jpg",
+                        "datePublished": "2025-02-06",
+                        "dateModified": "2025-02-13",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Umut"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 5,
+                        "url": "https://www.sikayetvar.com/112-acil-servis/itfaiye-ilgisizligi",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/112-acil-servis/itfaiye-ilgisizligi",
+                        "headline": "İtfaiye İlgisizliği!",
+                        "alternativeHeadline": "İtfaiye İlgisizliği! - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2025-02-03",
+                        "dateModified": "2025-02-03",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Tuğçe"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 6,
+                        "url": "https://www.sikayetvar.com/anadolu-sigorta/anadolu-sigortanin-cilingir-hizmeti-magduriyeti",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/anadolu-sigorta/anadolu-sigortanin-cilingir-hizmeti-magduriyeti",
+                        "headline": "Anadolu Sigorta'nın Çilingir Hizmeti Mağduriyeti",
+                        "alternativeHeadline": "Anadolu Sigorta'nın Çilingir Hizmeti Mağduriyeti - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2025-02-03",
+                        "dateModified": "2025-02-04",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Müşerref"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 7,
+                        "url": "https://www.sikayetvar.com/sompo/sompo-sigorta-ile-cilingir-hizmeti-hayal-kirikligi",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/sompo/sompo-sigorta-ile-cilingir-hizmeti-hayal-kirikligi",
+                        "headline": "Sompo Sigorta İle Çilingir Hizmeti Hayal Kırıklığı",
+                        "alternativeHeadline": "Sompo Sigorta İle Çilingir Hizmeti Hayal Kırıklığı - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2025-01-22",
+                        "dateModified": "2025-01-23",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Mustafa"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 8,
+                        "url": "https://www.sikayetvar.com/financell-turkcell-finansman/kisisel-verilerin-ihlali-ve-ailemin-tehdit-edilmesi",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/financell-turkcell-finansman/kisisel-verilerin-ihlali-ve-ailemin-tehdit-edilmesi",
+                        "headline": "Kişisel Verilerin İhlali Ve Ailemin Tehdit Edilmesi",
+                        "alternativeHeadline": "Kişisel Verilerin İhlali Ve Ailemin Tehdit Edilmesi - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2025-01-03",
+                        "dateModified": "2025-01-06",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Esra"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 9,
+                        "url": "https://www.sikayetvar.com/turkiye-sigorta/konut-sigortasinda-cilingir-krizi-ve-odeme-sorunlari",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/turkiye-sigorta/konut-sigortasinda-cilingir-krizi-ve-odeme-sorunlari",
+                        "headline": "Konut Sigortasında Çilingir Krizi Ve Ödeme Sorunları",
+                        "alternativeHeadline": "Konut Sigortasında Çilingir Krizi Ve Ödeme Sorunları - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2025-01-02",
+                        "dateModified": "2025-01-04",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Ender"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 10,
+                        "url": "https://www.sikayetvar.com/yuvam-bahcesehir-evleri/evde-bitmeyen-sorunlar-ve-ilgisizlik",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/yuvam-bahcesehir-evleri/evde-bitmeyen-sorunlar-ve-ilgisizlik",
+                        "headline": "Evde Bitmeyen Sorunlar Ve İlgisizlik",
+                        "alternativeHeadline": "Evde Bitmeyen Sorunlar Ve İlgisizlik - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-12-20",
+                        "dateModified": "2024-12-20",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Fatih"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 11,
+                        "url": "https://www.sikayetvar.com/doga-sigorta/cilingir-hizmeti-magduriyeti-ve-iade-sorunu",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/doga-sigorta/cilingir-hizmeti-magduriyeti-ve-iade-sorunu",
+                        "headline": "Çilingir Hizmeti Mağduriyeti Ve İade Sorunu",
+                        "alternativeHeadline": "Çilingir Hizmeti Mağduriyeti Ve İade Sorunu - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-12-05",
+                        "dateModified": "2024-12-19",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Ahmet"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 12,
+                        "url": "https://www.sikayetvar.com/antalyacilingircinizcom/antalyacilingircinizcom-sikayeti",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/antalyacilingircinizcom/antalyacilingircinizcom-sikayeti",
+                        "headline": "Antalyacilingirciniz.com Şikayeti",
+                        "alternativeHeadline": "Antalyacilingirciniz.com Şikayeti - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/3059/30593216/antalyacilingircinizcom-sikayeti-1-66.jpg",
+                        "datePublished": "2024-11-08",
+                        "dateModified": "2024-11-09",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Oğuzcan"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 13,
+                        "url": "https://www.sikayetvar.com/demetevler-cilingir-yigit-anahtar/isinde-uzman-olmayan-firma-demetevler-cilingir-yigit-anahtar",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/demetevler-cilingir-yigit-anahtar/isinde-uzman-olmayan-firma-demetevler-cilingir-yigit-anahtar",
+                        "headline": "İşinde Uzman Olmayan Firma Demetevler Çilingir - Yiğit Anahtar!",
+                        "alternativeHeadline": "İşinde Uzman Olmayan Firma Demetevler Çilingir - Yiğit Anahtar! - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-10-21",
+                        "dateModified": "2024-10-21",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Çağlar"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 14,
+                        "url": "https://www.sikayetvar.com/cilingir-getir/cilingir-hizmetinde-yaniltici-fiyatlandirma-ve-haksiz-ucret-talebi",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/cilingir-getir/cilingir-hizmetinde-yaniltici-fiyatlandirma-ve-haksiz-ucret-talebi",
+                        "headline": "Çilingir Hizmetinde Yanıltıcı Fiyatlandırma Ve Haksız Ücret Talebi",
+                        "alternativeHeadline": "Çilingir Hizmetinde Yanıltıcı Fiyatlandırma Ve Haksız Ücret Talebi - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/3039/30394087/cilingir-hizmetinde-yaniltici-fiyatlandirma-ve-haksiz-ucret-talebi-1.jpg",
+                        "datePublished": "2024-10-17",
+                        "dateModified": "2024-10-17",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Yasemin"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 15,
+                        "url": "https://www.sikayetvar.com/fiba-sigorta/fiba-sigortadan-ucret-iadesi-bekleyisi",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/fiba-sigorta/fiba-sigortadan-ucret-iadesi-bekleyisi",
+                        "headline": "Fiba Sigorta'dan Ücret İadesi Bekleyişi",
+                        "alternativeHeadline": "Fiba Sigorta'dan Ücret İadesi Bekleyişi - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/3036/30364766/fiba-sigortadan-ucret-iadesi-bekleyisi-1.pdf",
+                        "datePublished": "2024-10-14",
+                        "dateModified": "2024-10-14",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Yücel"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 16,
+                        "url": "https://www.sikayetvar.com/pronet/pronet-akilli-kilit-sistemi-magduru-video",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/pronet/pronet-akilli-kilit-sistemi-magduru-video",
+                        "headline": "Pronet Akıllı Kilit Sistemi Mağduru!",
+                        "alternativeHeadline": "Pronet Akıllı Kilit Sistemi Mağduru! - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/3000/30000450/pronet-akilli-kilit-sistemi-magduru.mp4",
+                        "datePublished": "2024-09-18",
+                        "dateModified": "2024-09-10",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Yiğit"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 17,
+                        "url": "https://www.sikayetvar.com/qnb-turkiye/qnb-finansbank-tan-eve-direkt-haciz-gonderilmesi-ve-kotu-muamele",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/qnb-turkiye/qnb-finansbank-tan-eve-direkt-haciz-gonderilmesi-ve-kotu-muamele",
+                        "headline": "QNB Finansbank 'tan Eve Direkt Haciz Gönderilmesi Ve Kötü Muamele!",
+                        "alternativeHeadline": "QNB Finansbank 'tan Eve Direkt Haciz Gönderilmesi Ve Kötü Muamele! - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-08-28",
+                        "dateModified": "2024-09-19",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Tuğçe"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 18,
+                        "url": "https://www.sikayetvar.com/delta-hotels-marriott-bodrum/delta-hotels-marriott-bodrum-aile-tatilinde-hayal-kirikligi",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/delta-hotels-marriott-bodrum/delta-hotels-marriott-bodrum-aile-tatilinde-hayal-kirikligi",
+                        "headline": "Delta Hotels Marriott Bodrum Aile Tatilinde Hayal Kırıklığı!",
+                        "alternativeHeadline": "Delta Hotels Marriott Bodrum Aile Tatilinde Hayal Kırıklığı! - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-08-22",
+                        "dateModified": "2024-08-21",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Fair"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 19,
+                        "url": "https://www.sikayetvar.com/basin-sitesi-cilingir/basin-sitesi-cilingir-musteriye-saygisizlik-ve-fahis-fiyat-alma",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/basin-sitesi-cilingir/basin-sitesi-cilingir-musteriye-saygisizlik-ve-fahis-fiyat-alma",
+                        "headline": "Basın Sitesi Çilingir Müşteriye Saygısızlık Ve Fahiş Fiyat Alma",
+                        "alternativeHeadline": "Basın Sitesi Çilingir Müşteriye Saygısızlık Ve Fahiş Fiyat Alma - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/2975/29753472/basin-sitesi-cilingir-musteriye-saygisizlik-ve-fahis-fiyat-alma-1.jpg",
+                        "datePublished": "2024-08-17",
+                        "dateModified": "2024-08-19",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Cevat"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 20,
+                        "url": "https://www.sikayetvar.com/garanti-bbva/garanti-bbva-bankasi-haciz-islemleri-ve-psikolojik-etkileri",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/garanti-bbva/garanti-bbva-bankasi-haciz-islemleri-ve-psikolojik-etkileri",
+                        "headline": "Garanti BBVA Bankası Haciz İşlemleri Ve Psikolojik Etkileri",
+                        "alternativeHeadline": "Garanti BBVA Bankası Haciz İşlemleri Ve Psikolojik Etkileri - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-08-18",
+                        "dateModified": "2025-04-14",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Ayşe"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 21,
+                        "url": "https://www.sikayetvar.com/ray-sigorta/ray-sigorta-sigorta-policesi-kapsaminda-ekstra-ucret-talebi",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/ray-sigorta/ray-sigorta-sigorta-policesi-kapsaminda-ekstra-ucret-talebi",
+                        "headline": "Ray Sigorta Sigorta Poliçesi Kapsamında Ekstra Ücret Talebi",
+                        "alternativeHeadline": "Ray Sigorta Sigorta Poliçesi Kapsamında Ekstra Ücret Talebi - Şikayetvar",
+                        "image": "https://files.sikayetvar.com/complaint/2971/29712500/ray-sigorta-sigorta-policesi-kapsaminda-ekstra-ucret-talebi-1.jpg",
+                        "datePublished": "2024-08-13",
+                        "dateModified": "2024-08-15",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Sonay"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 22,
+                        "url": "https://www.sikayetvar.com/sompo/sompo-sigorta-hizmet-yetersizligi-1",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/sompo/sompo-sigorta-hizmet-yetersizligi-1",
+                        "headline": "Sompo Sigorta Hizmet Yetersizliği",
+                        "alternativeHeadline": "Sompo Sigorta Hizmet Yetersizliği - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-07-16",
+                        "dateModified": "2024-07-16",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Hüsamettin"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 23,
+                        "url": "https://www.sikayetvar.com/aveon-global-sigorta/aveon-global-sigorta-cilingir-hizmetinde-fatura-ve-kargo-ucreti-sorunu",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/aveon-global-sigorta/aveon-global-sigorta-cilingir-hizmetinde-fatura-ve-kargo-ucreti-sorunu",
+                        "headline": "Aveon Global Sigorta Çilingir Hizmetinde Fatura Ve Kargo Ücreti Sorunu",
+                        "alternativeHeadline": "Aveon Global Sigorta Çilingir Hizmetinde Fatura Ve Kargo Ücreti Sorunu - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-07-08",
+                        "dateModified": "2024-07-11",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Fatih"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    },
+                    {
+                        "@type": [
+                            "ItemList",
+                            "Article"
+                        ],
+                        "position": 24,
+                        "url": "https://www.sikayetvar.com/aktif-bank/aktif-bank-eve-baskin-karari",
+                        "mainEntityOfPage": "https://www.sikayetvar.com/aktif-bank/aktif-bank-eve-baskin-karari",
+                        "headline": "Aktif Bank Eve Baskın Kararı",
+                        "alternativeHeadline": "Aktif Bank Eve Baskın Kararı - Şikayetvar",
+                        "image": "https://cdn.sikayetvar.com/public/images/logo.png",
+                        "datePublished": "2024-05-09",
+                        "dateModified": "2024-05-09",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Sevil"
+                        },
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Şikayetvar",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://cdn.sikayetvar.com/public/images/logo.svg"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
